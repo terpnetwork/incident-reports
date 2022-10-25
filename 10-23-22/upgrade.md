@@ -77,15 +77,16 @@ sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.19.2.linux-amd64.ta
 ```
 cd ~/terp-core
 git fetch --all
-git checkout v0.1.0
+git checkout v0.1.1
 make install
 terpd version
 ```
 `Install`
 ```
-git clone -b v0.1.1 https://github.com/terpnetwork/terp-core.git
+git clone https://github.com/terpnetwork/terp-core.git
 cd terp-core
-git checkout v0.1.0
+git fetch --all
+git checkout v0.1.1
 make install
 terpd version
 ```
