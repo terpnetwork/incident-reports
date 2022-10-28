@@ -68,11 +68,8 @@ sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$PEERS\"/" ~/.terp/
 
 ### 8. **Download and install the new binary**
 
-#### 8a. Install GO v19.2
-wget https://go.dev/dl/go1.19.2.linux-amd64.tar.gz
-sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.19.2.linux-amd64.tar.gz
 
-#### 8b. Upgrade or Install Terp-Core
+#### 8a. Upgrade or Install Terp-Core
 `Update`
 ```
 cd ~/terp-core
@@ -122,7 +119,7 @@ $HOME.terp/cosmovisor
 To build yourself or check options, [read more here](./genesis.md).
 
 ```sh
-cd ~/.terp/config/genesis.json
+cd ~/.terp/config/
 rm ~/.terp/config/genesis.json
 wget https://raw.githubusercontent.com/terpnetwork/test-net/master/athena-2/genesis.json
 mv genesis.json $HOME/.terp/config/genesis.json
