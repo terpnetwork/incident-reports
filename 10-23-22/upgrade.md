@@ -33,7 +33,7 @@ diff -s ~/.terp/data/priv_validator_state.json ~/priv_validator_state.json
 ### 4. **Purge previous chain state and addrbook.json**
 Because we'll be starting from a new genesis, the previous data is no longer necessary.
 ```sh
-terpd tendermint unsafe-reset-all --home $HOME/.terp --keep-addr-book
+terpd tendermint unsafe-reset-all --home $HOME/.terp 
 ```
 
 ### 5. **Move Private Validator State**
