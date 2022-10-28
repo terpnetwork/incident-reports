@@ -60,10 +60,9 @@ These are all verified to be using the new genesis file and binary.
 
 **WARNING:** These should be added manually if you are running a sentries setup, or you will blank out your peers.
 ```sh
-SEEDS=""
-PEERS=""
-sed -i.bak -e "s/^seeds *=.*/seeds = \"$SEEDS\"/" ~/.terp/config/config.toml
-sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$PEERS\"/" ~/.terp/config/config.toml
+seeds=""
+peers="15f5bc75be9746fd1f712ca046502cae8a0f6ce7@terp-testnet.nodejumper.io:26656,7e5c0b9384a1b9636f1c670d5dc91ba4721ab1ca@23.88.53.28:36656,14ca69edabb36c51504f1a760292f8e6b9190bd7@65.21.138.123:28656,c989593c89b511318aa6a0c0d361a7a7f4271f28@65.108.124.172:26656"
+sed -i -e 's|^seeds *=.*|seeds = "'$seeds'"|; s|^persistent_peers *=.*|persistent_peers = "'$peers'"|' $HOME/.terp/config/config.toml
 ```
 
 ### 8. **Download and install the new binary**
