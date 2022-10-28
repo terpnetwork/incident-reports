@@ -24,6 +24,7 @@ An example method for doing so is as follows, which will copy your validator key
 ```sh
 cp ~/.terp/data/priv_validator_state.json ~/
 diff -s ~/.terp/data/priv_validator_state.json ~/priv_validator_state.json
+cp ~/.terp/config/priv_validator_key.json ~/priv_validator_key.json
 ```
 
 > Should return "Files ... and ... are identical" if not, make sure to manually backup your priv_validator_state.json file.
