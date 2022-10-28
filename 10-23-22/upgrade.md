@@ -77,7 +77,7 @@ sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.19.2.linux-amd64.ta
 ```
 cd ~/terp-core
 git fetch --all
-git checkout v0.1.1-stable
+git checkout v0.1.2
 make install
 terpd version
 ```
@@ -86,7 +86,7 @@ terpd version
 git clone https://github.com/terpnetwork/terp-core.git
 cd terp-core
 git fetch --all
-git checkout v0.1.1-stable
+git checkout v0.1.2
 make install
 terpd version
 ```
@@ -124,12 +124,12 @@ To build yourself or check options, [read more here](./genesis.md).
 ```sh
 cd ~/.terp/config/genesis.json
 rm ~/.terp/config/genesis.json
-wget https://raw.githubusercontent.com/terpnetwork/test-net/master/athena-1/genesis.json
+wget https://raw.githubusercontent.com/terpnetwork/test-net/master/athena-2/genesis.json
 mv genesis.json $HOME/.terp/config/genesis.json
 
-# check chain is athena-2, genesis time is correct & initial block is 694210
+# check chain is athena-2, genesis time is correct & initial block is 694200
 # note if using zsh that you may need to break this up, and run steps individually
-# i.e. cat $HOME/juno/config/genesis.json | jq '.chain_id'
+# i.e. cat $HOME/.terp/config/genesis.json | jq '.chain_id'
 cat $HOME/.terp/config/genesis.json | jq '"Genesis Time: " + .genesis_time + " — Chain ID: " + .chain_id + " - Initial Height: " + .initial_height'
 ```
 
@@ -169,7 +169,7 @@ sudo systemctl restart terpd
 sudo journalctl -fu terpd
 ```
 
-**The node will take roughly 30 minutes to start**, with 64GB of RAM. After it's finished starting, the output should be as follows:
+the output should be as follows:
 ```
 4:58AM INF Genesis time is in the future. Sleeping until then... genTime=TBD
 ```
@@ -188,4 +188,4 @@ Nope! We are effectively starting from "block 0" of the new genesis. Similarly, 
 These will be auto-claimed for you. Therefore, they are safe!
 
 ### How was the new genesis created?
-The current state of juno-1 was exported from block `694200`, then converted into a genesis file. Essentially that means all previously state was backed up as-is. Instructions for creating the genesis can be found here: TBD
+The current state of athena-1 was exported from block `694200`, then converted into a genesis file. Essentially that means all previously state was backed up as-is. 
