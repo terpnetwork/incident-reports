@@ -139,7 +139,7 @@ cat $HOME/.terp/config/genesis.json | jq '"Genesis Time: " + .genesis_time + " â
 jq -S -c -M '' ~/.terp/config/genesis.json | sha256sum
 
 # this will return
-# TBD  -
+# b2acc7ba63b05f5653578b05fc5322920635b35a19691dbafd41ef6374b1bc9a  /home/user/.terp/config/genesis.json 
 ```
 
 ### 10. **Be paranoid**
