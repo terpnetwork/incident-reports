@@ -1,0 +1,1846 @@
+{
+    "Logger": {},
+    "commit_round": 1,
+    "commit_time": "2022-12-22T18:18:18.921955968Z",
+    "height": 1497396,
+    "last_commit": {
+        "peer_maj_23s": {},
+        "votes": [
+            "Vote{0:E8F8FCABCE9B 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 01E33A745DB0 @ 2022-12-22T02:10:41.960891682Z}",
+            "Vote{1:4FA0C000B17D 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 78DC0CA541EE @ 2022-12-22T02:10:41.405065266Z}",
+            "Vote{2:213886810D6A 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 43E4E9137C3B @ 2022-12-22T02:10:41.476056937Z}",
+            "Vote{3:D38638469153 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 B1A453A07371 @ 2022-12-22T02:10:41.390072749Z}",
+            "Vote{4:0309E65D49C3 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 9D33563C2EC6 @ 2022-12-22T02:10:41.419999933Z}",
+            "Vote{5:D700B20FFA9E 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 8270BD3D356D @ 2022-12-22T02:10:41.456623294Z}",
+            "Vote{6:24359B9BF226 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 7C9C6FE30784 @ 2022-12-22T02:10:41.393392995Z}",
+            "Vote{7:0F364709D778 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 8161EE23308E @ 2022-12-22T02:10:41.402844108Z}",
+            "Vote{8:6F386D64B3BC 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 B86F0BDECCCB @ 2022-12-22T02:10:41.464483756Z}",
+            "Vote{9:38D224A7E43B 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 0D468579F531 @ 2022-12-22T02:10:41.499382204Z}",
+            "Vote{10:517C9EDF350C 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 04EA673A125D @ 2022-12-22T02:10:41.458217493Z}",
+            "Vote{11:50F4AED65A09 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 B85AD624C513 @ 2022-12-22T02:10:41.675873243Z}",
+            "Vote{12:3796E01FF587 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 56D3F9C735EB @ 2022-12-22T02:10:41.479563585Z}",
+            "Vote{13:BC88DB57CE9C 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 56CE5C55BC39 @ 2022-12-22T02:10:41.479490123Z}",
+            "Vote{14:4AC363624687 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 5DF88C781E19 @ 2022-12-22T02:10:41.40320135Z}",
+            "Vote{15:D61C71DE7AA2 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 5E1901F4422F @ 2022-12-22T02:10:41.45379517Z}",
+            "Vote{16:E13AFDF3AB1A 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 668454E29296 @ 2022-12-22T02:10:41.697643592Z}",
+            "Vote{17:FE9E74DB6099 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 1723A254B919 @ 2022-12-22T02:10:41.445090148Z}",
+            "Vote{18:390DF25A8E8B 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 347069F48EF6 @ 2022-12-22T02:10:41.393804082Z}",
+            "Vote{19:B28539EDC933 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 6AABB58C2C27 @ 2022-12-22T02:10:41.42325983Z}",
+            "Vote{20:703C8FBA4A03 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 AF8086DE7AD3 @ 2022-12-22T02:10:41.405074164Z}",
+            "Vote{21:8678DEA79C21 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 76D780C993D7 @ 2022-12-22T02:10:41.442903102Z}",
+            "Vote{22:A4C75BF2E949 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 82B19A2FFFAC @ 2022-12-22T02:10:41.731245476Z}",
+            "Vote{23:401FEDE08F5D 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 07A1167DA6ED @ 2022-12-22T02:10:41.389679338Z}",
+            "Vote{24:7B816BCCF55D 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 D717953B33CA @ 2022-12-22T02:10:41.435638005Z}",
+            "Vote{25:AFB96C6B73F5 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 8D127DC6F647 @ 2022-12-22T02:10:41.664326824Z}",
+            "Vote{26:28E477061609 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 3DA88AC88ABB @ 2022-12-22T02:10:41.555368213Z}",
+            "Vote{27:0EC9B78EA638 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 8712B13085D9 @ 2022-12-22T02:10:41.392588473Z}",
+            "Vote{28:3724E509EECF 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 9151429B9673 @ 2022-12-22T02:10:41.432501615Z}",
+            "Vote{29:7CB63A711072 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 2E237C996C9A @ 2022-12-22T02:10:42.609012218Z}",
+            "Vote{30:8E083B36D052 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 DE57310922F5 @ 2022-12-22T02:10:41.444274555Z}",
+            "Vote{31:BA6DE0B7A4C6 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 59A5462401AE @ 2022-12-22T02:10:41.396678713Z}",
+            "Vote{32:2F2CCA202C52 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 252A53EBCEE8 @ 2022-12-22T02:10:41.420066361Z}",
+            "Vote{33:FAE1B281108C 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 9E20A0836961 @ 2022-12-22T02:10:41.412252055Z}",
+            "Vote{34:87FDE4FCFED8 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 48FE90A94F3D @ 2022-12-22T02:10:41.449317523Z}",
+            "Vote{35:46E5C0176076 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 DB49AF898185 @ 2022-12-22T02:10:41.422981178Z}",
+            "nil-Vote",
+            "Vote{37:0D50AA2D57A7 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 10B38150EDDB @ 2022-12-22T02:10:41.414942398Z}",
+            "Vote{38:3637E5E60991 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 669651E4FE3E @ 2022-12-22T02:10:41.430968392Z}",
+            "Vote{39:F15A3D1C8D7F 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 C371A310A645 @ 2022-12-22T02:10:41.479413618Z}",
+            "Vote{40:4CAC8DD1518C 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 EFFC4F3B2CEB @ 2022-12-22T02:10:41.423139121Z}",
+            "Vote{41:F7A6BABF60CE 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 F6578E9E98E2 @ 2022-12-22T02:10:41.409778041Z}",
+            "Vote{42:47A953149ECF 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 B57E123C1E44 @ 2022-12-22T02:10:41.479922647Z}",
+            "Vote{43:E8F26C7248E9 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 34A005CD9842 @ 2022-12-22T02:10:41.436953867Z}",
+            "Vote{44:56589CA2A693 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 B66320DA2602 @ 2022-12-22T02:10:41.728545328Z}",
+            "Vote{45:E969B6C58609 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 E045DA43D542 @ 2022-12-22T02:10:41.436992209Z}",
+            "Vote{46:38B48401FF4F 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 BEB3F5CD044A @ 2022-12-22T02:10:41.455272006Z}",
+            "Vote{47:9EEE61849C5E 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 3C0EBAE45E57 @ 2022-12-22T02:10:41.456395251Z}",
+            "Vote{48:2192EFEF46C0 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 C9D541C03CBA @ 2022-12-22T02:10:42.509106907Z}",
+            "Vote{49:FDA5CFAE255E 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 B5918AE0BB9A @ 2022-12-22T02:10:41.39712747Z}",
+            "Vote{50:B5C2BAE624A6 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 856F90F073F4 @ 2022-12-22T02:10:41.400181006Z}",
+            "Vote{51:F3279DF175F9 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 16F4A972E850 @ 2022-12-22T02:10:41.44538682Z}",
+            "Vote{52:DC47CB3367C9 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 E2A23205851F @ 2022-12-22T02:10:41.385570403Z}",
+            "Vote{53:B2659B938C94 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 32CA3C23235A @ 2022-12-22T02:10:41.400616979Z}",
+            "Vote{54:EAA57195FAFF 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 0EC129E691B7 @ 2022-12-22T02:10:41.419206842Z}",
+            "Vote{55:BB3DA45DD4AC 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 B8C119A198A4 @ 2022-12-22T02:10:41.433243025Z}",
+            "Vote{56:34CC054CD8D2 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 2354FD20A53F @ 2022-12-22T02:10:41.46726654Z}",
+            "Vote{57:C996795284EA 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 B820EA6F3B25 @ 2022-12-22T02:10:41.480407655Z}",
+            "Vote{58:4B2EC24A541B 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 7AAB9CD18E8F @ 2022-12-22T02:10:41.408477999Z}",
+            "Vote{59:9CB0AE94157B 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 3388BA850F1B @ 2022-12-22T02:10:41.413796861Z}",
+            "Vote{60:D1CFFAC7BA4A 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 F27139694D14 @ 2022-12-22T02:10:41.384115761Z}",
+            "Vote{61:CC06A9793165 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 A699061A265F @ 2022-12-22T02:10:41.401837531Z}",
+            "Vote{62:A903E877E236 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 9F942B26A2F5 @ 2022-12-22T02:10:41.408342463Z}",
+            "Vote{63:60F3B0FA4FF3 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 EA8DE5E69AA9 @ 2022-12-22T02:10:41.443999169Z}",
+            "Vote{64:0072F1C831E2 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 2D08DAAF8302 @ 2022-12-22T02:10:41.797486681Z}",
+            "Vote{65:B10095720900 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 B140C67A2DF5 @ 2022-12-22T02:10:41.467110983Z}",
+            "Vote{66:953A851D650E 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 28938A986A8F @ 2022-12-22T02:10:41.417583885Z}",
+            "Vote{67:98A05FA60780 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 AC8CF71A2274 @ 2022-12-22T02:10:41.479846Z}",
+            "Vote{68:F80845641721 1497395/02/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 0C2BB97142F6 7D17524B6C28 @ 2022-12-22T02:10:41.550695438Z}"
+        ],
+        "votes_bit_array": "BA{69:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx} 62314065/62423965 = 1.00"
+    },
+    "last_validators": {
+        "proposer": {
+            "address": "21E0AEA965E98386536A02674B845DC70F873976",
+            "proposer_priority": -26503059,
+            "pub_key": "+lDnNaB58Q2r4corT6tvbCM3aH5yBrle4OescdVJa4I=",
+            "voting_power": 109900
+        },
+        "validators": [
+            {
+                "address": "E8F8FCABCE9B549C1588440D0F1D70F88EA2D1D9",
+                "proposer_priority": 28913645,
+                "pub_key": "lRDP1+uNifi05EVaJH3f2l6/0rXfroFh5izPZ2xPjOU=",
+                "voting_power": 10090010
+            },
+            {
+                "address": "4FA0C000B17D7B3B7DFEA852EA2CD3C23A65798F",
+                "proposer_priority": 23696632,
+                "pub_key": "U0+HDWZknsQ0/9j4Q4+5qYK50Vg+MWdCHPein2syqE4=",
+                "voting_power": 6246498
+            },
+            {
+                "address": "213886810D6A81CA0419F775E450E8DD4C9B8EA6",
+                "proposer_priority": -16128756,
+                "pub_key": "z3Lgk5Lf9vY5vX5vVMJ4io0Qa/463Rz9id9pEnGnamI=",
+                "voting_power": 5429894
+            },
+            {
+                "address": "D386384691536DE1D6A03BFCADD65682B7FE8B5A",
+                "proposer_priority": 25563866,
+                "pub_key": "WeBiHvOpdsAuKp24F05t+cQfrlIMTm2U7IV7qYLg29s=",
+                "voting_power": 4571004
+            },
+            {
+                "address": "0309E65D49C368677F13F2C915FE4297964D2153",
+                "proposer_priority": -7841709,
+                "pub_key": "r4ZGCbBXxrlwiDUQ677NI/xsqLhFC+AlVkGm4jLpwvY=",
+                "voting_power": 4500046
+            },
+            {
+                "address": "D700B20FFA9EE27656A446109557969B3E2F9661",
+                "proposer_priority": -11178645,
+                "pub_key": "a7PxwB5Yrb7YBp3hxaKQzoLIfoCBOVFi4LVRkhSYhx4=",
+                "voting_power": 3930091
+            },
+            {
+                "address": "24359B9BF226CF27E0EFA11A30EFA176A7CA1919",
+                "proposer_priority": 3749262,
+                "pub_key": "HAjQgl976XcpOH8TCfGqYa93WSv8ACYmiVx9HNmod8M=",
+                "voting_power": 3810001
+            },
+            {
+                "address": "0F364709D778271BDC4BEDE6337B607C370DE6EE",
+                "proposer_priority": 10525758,
+                "pub_key": "O2MAemF2ZcIb+dXMXZdVBNYvB/vVuzyQAcRLdUSG+7M=",
+                "voting_power": 2550098
+            },
+            {
+                "address": "6F386D64B3BC29DA7728A42CEFCD368CC2F747D0",
+                "proposer_priority": 5075375,
+                "pub_key": "5ItZqcPCDYkxVIGFZHZWOg4TFbrWlU0iQXpq+ZvgrzI=",
+                "voting_power": 2279861
+            },
+            {
+                "address": "38D224A7E43BC42E3CA42961B2BFAF12369AA02B",
+                "proposer_priority": 4390395,
+                "pub_key": "VbKZ7sEn0qZzChocy1CRmSHnwHLEntLkwQUvUmqgwgk=",
+                "voting_power": 2150910
+            },
+            {
+                "address": "517C9EDF350C5038CC788B6C0704B1F7C40BD2EF",
+                "proposer_priority": -11338956,
+                "pub_key": "RlyCXPK6OibsXhUXea0WiA3Bv8+S90av0RbOSFYtyB8=",
+                "voting_power": 1930100
+            },
+            {
+                "address": "50F4AED65A099CE099866589E03539BC91FE4C22",
+                "proposer_priority": -1111546,
+                "pub_key": "nYDyt6pHhlvuBejG4wZN899tO0dsboxvLmMgKp5fzBw=",
+                "voting_power": 1675049
+            },
+            {
+                "address": "3796E01FF5873F89ED6C1A018B35CA2CAF8C898F",
+                "proposer_priority": 16462383,
+                "pub_key": "h7W6wznnqveytJwhEbH5elE4N+t0aZefNIyfLq5uY+0=",
+                "voting_power": 1519992
+            },
+            {
+                "address": "BC88DB57CE9C762EF9035F476875BB0EA08E5886",
+                "proposer_priority": -953517,
+                "pub_key": "xLvN2hszV1uY3ZyNf40ipR0OinvpE+RBuNQQMR4hsj4=",
+                "voting_power": 1300000
+            },
+            {
+                "address": "4AC363624687DBE1C4C4E7ED9E908D49A3F8EC45",
+                "proposer_priority": -19887,
+                "pub_key": "F11Sz9U53eBQwrLP8hntKTLbtQL12IOIwmfbpv+tgKg=",
+                "voting_power": 1181778
+            },
+            {
+                "address": "D61C71DE7AA2300E5815B28CF70CC9FD9AF98A3D",
+                "proposer_priority": 23833402,
+                "pub_key": "muPGFu+DjsAJNVVs58j1N8cw9dEoxb15qpRDRtje9SU=",
+                "voting_power": 1116001
+            },
+            {
+                "address": "E13AFDF3AB1A35CEC5CEAC9ED43B6C04FF6BE5B7",
+                "proposer_priority": 27488977,
+                "pub_key": "kW+rvlWLSL/hekHPjTaRKHukipJgo7xk8BFIAyzWcZg=",
+                "voting_power": 1015879
+            },
+            {
+                "address": "FE9E74DB60994CD032A95A4380D5C7BD09BF7690",
+                "proposer_priority": 9135268,
+                "pub_key": "cd2WE3+dHZ9Xyv2yOllkiJv2ZIvNSq3InAt9d87YMYQ=",
+                "voting_power": 975010
+            },
+            {
+                "address": "390DF25A8E8B38ACA067B8CDF07679CD2D105F50",
+                "proposer_priority": -3838770,
+                "pub_key": "662Myf/TVbbbmHw3TxINiFa/KWVvre6T0pWnsiy/v+U=",
+                "voting_power": 584000
+            },
+            {
+                "address": "B28539EDC93372D278E587E2002F9E0ED7028332",
+                "proposer_priority": 31497550,
+                "pub_key": "cPEZqjNBZfQOUzYFcLu96F0s6TITsIkW5iwtbf8htn0=",
+                "voting_power": 560000
+            },
+            {
+                "address": "703C8FBA4A03DE83352CC8E74A6A930AEF3C2D0E",
+                "proposer_priority": 16699116,
+                "pub_key": "6DnbrHMEuGfO1N9UfPCOFN1G6XrJL1ReSeVxFzN8r+k=",
+                "voting_power": 484593
+            },
+            {
+                "address": "8678DEA79C21F962BC6267081CC11C4A0EC4D8BA",
+                "proposer_priority": -9170534,
+                "pub_key": "1gk2+PhCfAiJZYKhwEOumId/l/GEy4AlzgnsHEdUOVI=",
+                "voting_power": 449758
+            },
+            {
+                "address": "A4C75BF2E94961541CD8AC6D0CF0EE71C018C1D0",
+                "proposer_priority": -21193673,
+                "pub_key": "jRahUUSvg75PArugFZS5ns/iX9ohDmA4Y7xiNOpaTvg=",
+                "voting_power": 263988
+            },
+            {
+                "address": "401FEDE08F5DF7B853CD624176ED867FAB631796",
+                "proposer_priority": 9204399,
+                "pub_key": "2nDikxixwzOM01G9w4lCxLJrCka7Z5DZppaCXEDK7L0=",
+                "voting_power": 249700
+            },
+            {
+                "address": "7B816BCCF55DA558D250AC4ED58DD43E515E260C",
+                "proposer_priority": 6570927,
+                "pub_key": "1/oyKmmcWU++hTpdbewBPAH243hjoiSv/FDtZRcnPdg=",
+                "voting_power": 220010
+            },
+            {
+                "address": "AFB96C6B73F54ACCFBD090C9AB5D252C0BE3059B",
+                "proposer_priority": -1374768,
+                "pub_key": "RPTwt8cTUAfSjvIBCcAzbaz4nrZECZb3dF8QBuohKqY=",
+                "voting_power": 200002
+            },
+            {
+                "address": "28E477061609182C6762EAD8CFD171EFB649E262",
+                "proposer_priority": 17322352,
+                "pub_key": "Irwgr04SfUZfAXmtAgq43tWFmhYBy3Rva6kd6gn5n+U=",
+                "voting_power": 170012
+            },
+            {
+                "address": "0EC9B78EA638A9976403A669D1D3B10462972C7F",
+                "proposer_priority": -26271042,
+                "pub_key": "Il27wiW/d1xQRfofpJGXYJDm2eABVIDPAdTyM64280A=",
+                "voting_power": 150010
+            },
+            {
+                "address": "3724E509EECFED0FE2BFDD9846836F42A4F21F5B",
+                "proposer_priority": 35739012,
+                "pub_key": "/C05fvS/vCKc0MA1wKwjF5lTiPIrPKJg8U/aBbCMUKI=",
+                "voting_power": 150001
+            },
+            {
+                "address": "7CB63A7110729CB6C14FE5F14BF8D247D0B3D705",
+                "proposer_priority": 33351887,
+                "pub_key": "uRBzOnWoq14FkAA7gqvTWQGEwJ7uDv+XEGRRCF1BNfU=",
+                "voting_power": 149950
+            },
+            {
+                "address": "8E083B36D0527323B5C60789F178A2D2C31D7C7D",
+                "proposer_priority": 18742100,
+                "pub_key": "rKWSCRlXeESnYSX6PFCTWrbiILhFV8nLxOCvfSsjKMc=",
+                "voting_power": 149853
+            },
+            {
+                "address": "BA6DE0B7A4C633839417B251A0EF5A2D2F65255F",
+                "proposer_priority": 18651274,
+                "pub_key": "FRGlGhIYSIKzDejSyifj/xjBwL8ms3GyaBV8UQy3n3U=",
+                "voting_power": 149851
+            },
+            {
+                "address": "2F2CCA202C52966CB6A77FC289D4621C5D25B9A6",
+                "proposer_priority": 3739492,
+                "pub_key": "qDh7UvaXW5RP2z+axaxDHwfMK+f8tfAUPuLFDVHQrR8=",
+                "voting_power": 148004
+            },
+            {
+                "address": "FAE1B281108C97AFA73C3D720E630C6E394E4932",
+                "proposer_priority": -19766649,
+                "pub_key": "JWRXWZ9phE91gBL2V1SZPV1LcTUbzPB6DEn4qK4jbsM=",
+                "voting_power": 144100
+            },
+            {
+                "address": "87FDE4FCFED8C4E86316BFDF63E88919C6A06569",
+                "proposer_priority": 6430829,
+                "pub_key": "nSMuKZB5XaSG4UfdYodLglXU8YIbfAA77xZrItIME1k=",
+                "voting_power": 113334
+            },
+            {
+                "address": "46E5C01760764C3493F54370CD0A116A40682954",
+                "proposer_priority": 30711327,
+                "pub_key": "gUEVGGkVatClHAR1U5pMwo4jJrF92iS2MmPlWfywfjo=",
+                "voting_power": 112010
+            },
+            {
+                "address": "21E0AEA965E98386536A02674B845DC70F873976",
+                "proposer_priority": -26503059,
+                "pub_key": "+lDnNaB58Q2r4corT6tvbCM3aH5yBrle4OescdVJa4I=",
+                "voting_power": 109900
+            },
+            {
+                "address": "0D50AA2D57A794E555350B491681341FB09302BA",
+                "proposer_priority": 31292149,
+                "pub_key": "apSIdqpYVDw1Qg7FojDtimrYI7NP7IXs2TIw5WzgqSg=",
+                "voting_power": 109785
+            },
+            {
+                "address": "3637E5E6099178BC597CD4564D1EFBA1BA871325",
+                "proposer_priority": -14782458,
+                "pub_key": "upS+e0WckdCtiVN7XUtWEx64yhw6os+0RgZ7GFVx6EA=",
+                "voting_power": 100100
+            },
+            {
+                "address": "F15A3D1C8D7FA38B12E32FB5814EF5C187E1E4CF",
+                "proposer_priority": -14782870,
+                "pub_key": "W63wOYI2KRmNygw8Fp/9u3ZOeoBh/glwX66gIHEAsOU=",
+                "voting_power": 100100
+            },
+            {
+                "address": "4CAC8DD1518CBFC5FC007597406DD9AB4D69DFB3",
+                "proposer_priority": -18012198,
+                "pub_key": "Z5ntUCqIaGrGBztdhee6B/5HZnVkRX3joaKY1d+NLG4=",
+                "voting_power": 100050
+            },
+            {
+                "address": "F7A6BABF60CE7C3B8F90CEE3592EBAD622D8AADA",
+                "proposer_priority": -20686256,
+                "pub_key": "2+cfuR00QDcYTZmZM4ThK5T0Cv6hxCev/COkU2rXDTo=",
+                "voting_power": 100045
+            },
+            {
+                "address": "47A953149ECF19140F55C4763B77790A50324CD8",
+                "proposer_priority": -22656564,
+                "pub_key": "Ap07oYAf0qZYB9c45CCRbQ/ZhbsDiwEvzn1LAJOwr9M=",
+                "voting_power": 100010
+            },
+            {
+                "address": "E8F26C7248E95C26EA6E215F0DA950B9E647FDD8",
+                "proposer_priority": -22657814,
+                "pub_key": "pBBMhPOSmRQXfhjxm9DhHcnjEfhUUFw+wPFWtc05jlg=",
+                "voting_power": 100010
+            },
+            {
+                "address": "56589CA2A693F27B0BAD3090CCC0B048A681F2FD",
+                "proposer_priority": -22783904,
+                "pub_key": "Y15e/kDkLwS8sNbppfV7mpjcGRSo8R4am8avYDUyOsQ=",
+                "voting_power": 100009
+            },
+            {
+                "address": "E969B6C58609AA0E917CA78DA969C1FBAD7DCE28",
+                "proposer_priority": -22467215,
+                "pub_key": "MTjfNcsRBVj5xaAPvJp3v4E/Re7rE2NLtwjXD27UxIk=",
+                "voting_power": 100005
+            },
+            {
+                "address": "38B48401FF4FE519AE20B3C48FA58B96961CADD3",
+                "proposer_priority": -13742980,
+                "pub_key": "2gVv0oMop+g1RPnPNqPYBUcDnsgIOBQ5xm6l98YWQmA=",
+                "voting_power": 100000
+            },
+            {
+                "address": "9EEE61849C5EEAF8EC8B12D0F5AD4B5A55EB8ABC",
+                "proposer_priority": 12514585,
+                "pub_key": "147UZgVTMmlEVbnZ7Evo93SPCdaC882xOW/h08zOrAY=",
+                "voting_power": 99901
+            },
+            {
+                "address": "2192EFEF46C092FA8A862857EBA7557B68204A93",
+                "proposer_priority": -20868508,
+                "pub_key": "4EWcJqC3BG1HVV5CJwYbgN4t+vA4JY93c8/HfKfDNp0=",
+                "voting_power": 99900
+            },
+            {
+                "address": "FDA5CFAE255E20A14CF64319BEC508B39A9CC63D",
+                "proposer_priority": 20734473,
+                "pub_key": "EoC7Uh50JrgIZNRlWpVLO+zuOd7r7c+if/4POZG1Mcs=",
+                "voting_power": 90013
+            },
+            {
+                "address": "B5C2BAE624A60C22C78A48081886CCB112435402",
+                "proposer_priority": 15261383,
+                "pub_key": "+BOgwC2B+hR0mUkF/p6Qag92q7H2WDjHNiGJYs6CkPc=",
+                "voting_power": 74009
+            },
+            {
+                "address": "F3279DF175F975B67C4E1FCC1482B44A9FA4FC2D",
+                "proposer_priority": 25155540,
+                "pub_key": "BH8wAA3l9ldh8E7F30kGRCv8pvFolCliaApp8WZw6c4=",
+                "voting_power": 70012
+            },
+            {
+                "address": "DC47CB3367C97304E2807981579972D68BD486E4",
+                "proposer_priority": 24824546,
+                "pub_key": "JdAc1QRfDof4Gcx/zMjNXdSM8R//izyOgvxzJay8UjI=",
+                "voting_power": 50029
+            },
+            {
+                "address": "B2659B938C948AC5F1A8BD129B783E790C1C987C",
+                "proposer_priority": -1087659,
+                "pub_key": "M2vODkpiqqiaZ8arekMVQXbnB/LacMHVej4BgKDP6og=",
+                "voting_power": 20119
+            },
+            {
+                "address": "EAA57195FAFF4278972713234EAF055E079687BE",
+                "proposer_priority": -2874568,
+                "pub_key": "HHqykw7CktdTRGRnLy4m/oT/rMnRrAz82g7u8EDv4cg=",
+                "voting_power": 13352
+            },
+            {
+                "address": "BB3DA45DD4ACBA9FD59EC365369F458BDBE47D44",
+                "proposer_priority": -4237860,
+                "pub_key": "Y5vGhd3kGSc10BkghLpXLU+zpbBfucN1ri6y0o75MvI=",
+                "voting_power": 13323
+            },
+            {
+                "address": "34CC054CD8D2FDA17FF38AEF5ECE3F0AE511D023",
+                "proposer_priority": -20304430,
+                "pub_key": "yO5a2KmxRJzt9sdcWuiahkAfHMEUHbMn2kPB5oEZf4E=",
+                "voting_power": 10169
+            },
+            {
+                "address": "C996795284EAFDC92D4F958E4A605979B0AE4848",
+                "proposer_priority": -16989460,
+                "pub_key": "4ez3cwzBAXePJfcEHQebtfC63XF5DDRLmtZQHEUxdSk=",
+                "voting_power": 10141
+            },
+            {
+                "address": "4B2EC24A541B8E70DED66126BE1A27CDE8832E7D",
+                "proposer_priority": 22938110,
+                "pub_key": "PBaawEgh99V7yxAdIaGM1Vn9AbmzGWEXJJwOiXF6VuI=",
+                "voting_power": 10097
+            },
+            {
+                "address": "9CB0AE94157B877554AACF3FFB3BB2661791991C",
+                "proposer_priority": 14311357,
+                "pub_key": "ZnTDZ7U7zh27wDdY0w8wZjOr4d69HXwl+ZeNTIE9uzQ=",
+                "voting_power": 9001
+            },
+            {
+                "address": "D1CFFAC7BA4A90DA2F0A5D211DA6F23C97263843",
+                "proposer_priority": -18448126,
+                "pub_key": "B7rLC5CQ4Vylqe9mTyUTUOuzgj55BVLyLDEZWxiILuc=",
+                "voting_power": 5001
+            },
+            {
+                "address": "CC06A9793165968446771A8C94AAA1BEC93AF7C2",
+                "proposer_priority": -20646032,
+                "pub_key": "XhFbCHFtN/71cw7cTUta6mo7wHqtUEkEUATIdTB55FA=",
+                "voting_power": 3461
+            },
+            {
+                "address": "A903E877E236978422ADCD141B90AA56316B3F62",
+                "proposer_priority": -20321446,
+                "pub_key": "+fIvOOHu1hTm/K9EfK3mDNq2WTNvSW5JP9eYednrp1c=",
+                "voting_power": 3459
+            },
+            {
+                "address": "60F3B0FA4FF3703FCE79522F8330F980E29234DE",
+                "proposer_priority": -50164809,
+                "pub_key": "in17/K4RQq1cGWArJMWf/Y2FepFfV9ylhHuZd9zti3M=",
+                "voting_power": 108
+            },
+            {
+                "address": "0072F1C831E2239801E81B471EB37DA60FB943EB",
+                "proposer_priority": -22192080,
+                "pub_key": "u+OJrk3F+IJejcppgDNoxniIvqbm6huU2d45M0ezULc=",
+                "voting_power": 101
+            },
+            {
+                "address": "B10095720900EAEB989972F99A1CC087A7442188",
+                "proposer_priority": 6211960,
+                "pub_key": "Nd3TxB0XOxmfjqY3Qw9wyMFkq26WbxKdN7VDFiNk+5Y=",
+                "voting_power": 90
+            },
+            {
+                "address": "953A851D650EF3815A0AA318B60552D4172E422C",
+                "proposer_priority": -50903765,
+                "pub_key": "K/gTS9PchYumQSFORMEZFgPtPRVC1EMqEwt0YCp2Azc=",
+                "voting_power": 89
+            },
+            {
+                "address": "98A05FA607804F99069BED8D9136E81D503BEF3B",
+                "proposer_priority": -1157318,
+                "pub_key": "nQ5URngVHGa7Nz30Q39ppm2qPEzoPHsUa6DXTpbbmic=",
+                "voting_power": 89
+            },
+            {
+                "address": "F808456417218706935372C04B0125D9431A6DF5",
+                "proposer_priority": -1279467,
+                "pub_key": "1VXkkMNztRyvkZEmmcxP/4jMY0z1imJegm9rQz12bDI=",
+                "voting_power": 89
+            }
+        ]
+    },
+    "locked_block": null,
+    "locked_block_parts": null,
+    "locked_round": -1,
+    "proposal": null,
+    "proposal_block": {
+        "data": {
+            "txs": []
+        },
+        "evidence": {
+            "evidence": []
+        },
+        "header": {
+            "app_hash": "EB0CF6C5009360EFF66103B3FF1E93BFCA729F32D6ACEB705BDDE5D0EC135726",
+            "chain_id": "athena-2",
+            "consensus_hash": "048091BC7DDC283F77BFBF91D73C44DA58C3DF8A9CBC867405D8B7F3DAADA22F",
+            "data_hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+            "evidence_hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+            "height": 1497396,
+            "last_block_id": {
+                "hash": "0C2BB97142F62D1B5B9439D1935536BB54B78FD1B1B40456066ECB4262D04634",
+                "parts": {
+                    "hash": "C39F0D56D3280A6285348140030AFA6BAB3A72358EDDC987C13CE8CB6161BA73",
+                    "total": 1
+                }
+            },
+            "last_commit_hash": "828C9FBAD2DAE4CA91F80EAA9656F958FA2806794C75D0D991D7C40617528B9C",
+            "last_results_hash": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+            "next_validators_hash": "57D833B69B7E8D895165023EF29810EB74042CA82B0CC626807362AB97754D20",
+            "proposer_address": "4FA0C000B17D7B3B7DFEA852EA2CD3C23A65798F",
+            "time": "2022-12-22T02:10:41.456623294Z",
+            "validators_hash": "57D833B69B7E8D895165023EF29810EB74042CA82B0CC626807362AB97754D20",
+            "version": {
+                "block": 11
+            }
+        },
+        "last_commit": {
+            "block_id": {
+                "hash": "0C2BB97142F62D1B5B9439D1935536BB54B78FD1B1B40456066ECB4262D04634",
+                "parts": {
+                    "hash": "C39F0D56D3280A6285348140030AFA6BAB3A72358EDDC987C13CE8CB6161BA73",
+                    "total": 1
+                }
+            },
+            "height": 1497395,
+            "round": 2,
+            "signatures": [
+                {
+                    "block_id_flag": 2,
+                    "signature": "AeM6dF2wd6WiYSwGkl6EzlC8CEKeNzFBwPJt5iEIoHtJHb6OeOGfFb+1nCF/Aks00VMamqai2RbNTyamgDV7Cg==",
+                    "timestamp": "2022-12-22T02:10:41.960891682Z",
+                    "validator_address": "E8F8FCABCE9B549C1588440D0F1D70F88EA2D1D9"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "eNwMpUHuGeQcdcAGi6clQmHpzSSQepU+S2FmkdMzYM/ievJGFhXSaFD5Kv+ZkYHPUT9n9W/OtrBNhLEuPwBtAQ==",
+                    "timestamp": "2022-12-22T02:10:41.405065266Z",
+                    "validator_address": "4FA0C000B17D7B3B7DFEA852EA2CD3C23A65798F"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "Q+TpE3w7kuJYlVsr33/JLtCO9cVemyKdVDIjQlA7b7JS3n6XwkiwsHfjc6wxBGVjF5LHWwsey5PUFVP0yqVVBQ==",
+                    "timestamp": "2022-12-22T02:10:41.476056937Z",
+                    "validator_address": "213886810D6A81CA0419F775E450E8DD4C9B8EA6"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "saRToHNxk5/CngbgTE8FxEdbP+kbvzCeLZ5MFuumxSuqDMgGHh8RHwAyGxGLsvw6Szp1AGz9RuYHBVNQwUAmBA==",
+                    "timestamp": "2022-12-22T02:10:41.390072749Z",
+                    "validator_address": "D386384691536DE1D6A03BFCADD65682B7FE8B5A"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "nTNWPC7GJVqljih3jg7y7f+ftFZLUaWVztqvV/C+TszzE3w3dN6Cza7LDhhiK4BVB+OmPqcKrsTxwNMml9dfDQ==",
+                    "timestamp": "2022-12-22T02:10:41.419999933Z",
+                    "validator_address": "0309E65D49C368677F13F2C915FE4297964D2153"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "gnC9PTVtUYIxwbo1gWt7glLcuDxW7YK0G4H/UnXSx1VY6Ulis8TpSJIrsHU8YzsSJ6KsQMKSLqPq7ZoeW6P3Ag==",
+                    "timestamp": "2022-12-22T02:10:41.456623294Z",
+                    "validator_address": "D700B20FFA9EE27656A446109557969B3E2F9661"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "fJxv4weEbNTU94xcplQAR1wl4+Kp1RUhLBkkdFf84Ly1tPrKzwaSQ90Se9tR4a2lFa+KK/+9IBH7v3CWqPM6Bw==",
+                    "timestamp": "2022-12-22T02:10:41.393392995Z",
+                    "validator_address": "24359B9BF226CF27E0EFA11A30EFA176A7CA1919"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "gWHuIzCOIbO1E6sznk+iztZ25YDwe6oEAZNaib+aRWOqFxKwumv56B0ZuKQ74a7KmdxitW1O+v7YCIiQPQd8BA==",
+                    "timestamp": "2022-12-22T02:10:41.402844108Z",
+                    "validator_address": "0F364709D778271BDC4BEDE6337B607C370DE6EE"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "uG8L3szLpEvw1pdvjv3TBDGjlUzePP7DBPs6zkbe2d70AFqB4spSx8hHB15fAvGaoSlG03RGt3+4hfHWgQtVBg==",
+                    "timestamp": "2022-12-22T02:10:41.464483756Z",
+                    "validator_address": "6F386D64B3BC29DA7728A42CEFCD368CC2F747D0"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "DUaFefUxhkGpsJswxMnq7Pr79A5Wz2TiwwrhGermqq3joS65myJ9c4CS/3lc2XMglTyeANLxQoiCGc6ZsUovBA==",
+                    "timestamp": "2022-12-22T02:10:41.499382204Z",
+                    "validator_address": "38D224A7E43BC42E3CA42961B2BFAF12369AA02B"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "BOpnOhJdRNFOYjApRdaRjiGKx3GRQa7ZB8LJKqyNLEBB8tSvla5id5ej9YV/UAlYMFH3ONq5ZzQnx5wHmjKSAw==",
+                    "timestamp": "2022-12-22T02:10:41.458217493Z",
+                    "validator_address": "517C9EDF350C5038CC788B6C0704B1F7C40BD2EF"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "uFrWJMUT6KqTwh7h4g+Z20vmgrugRZwdMEBYehxLqSdXI7XCP2thcfJ3jWacn6Jov1SIeQG/Q8fJYM84TWVPCw==",
+                    "timestamp": "2022-12-22T02:10:41.675873243Z",
+                    "validator_address": "50F4AED65A099CE099866589E03539BC91FE4C22"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "VtP5xzXr2dLS+hUos5htKej+SM8IphVMsQ6JYZhTUjQYGCpmxrp3Y5wRW60yYagnmvj/W5/GSI/eNuEDFZAGCA==",
+                    "timestamp": "2022-12-22T02:10:41.479563585Z",
+                    "validator_address": "3796E01FF5873F89ED6C1A018B35CA2CAF8C898F"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "Vs5cVbw5LcUs7uJ7lISfDHALwatW/jFbiMO53F7fBj1qsl0j3bBVgCF5lrUd/PqOa2R4ANcP0UEzSl70/JccBg==",
+                    "timestamp": "2022-12-22T02:10:41.479490123Z",
+                    "validator_address": "BC88DB57CE9C762EF9035F476875BB0EA08E5886"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "XfiMeB4ZtuUkstKEMN6UCiCVPcwb/hOXcPCt+9hJ9d3foAKDDzmw+KJjV92Iad8NDCMsymaJa88P7ACKG4aoBw==",
+                    "timestamp": "2022-12-22T02:10:41.40320135Z",
+                    "validator_address": "4AC363624687DBE1C4C4E7ED9E908D49A3F8EC45"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "XhkB9EIveuRyb9heTRUZgPgdK32xPTIdckqIln3AyWyoDNL/26PUPoJDTYsQ+8MlqvqgBeETrEyVeeFhfGU3Bw==",
+                    "timestamp": "2022-12-22T02:10:41.45379517Z",
+                    "validator_address": "D61C71DE7AA2300E5815B28CF70CC9FD9AF98A3D"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "ZoRU4pKWNjTsBO7kwnDR/HGNQ3WkmNOdMbb8ibERFqgbOoVl/IugbqMn//wTnM3KG3JEkK2j6Mc+v7ql5KRBAw==",
+                    "timestamp": "2022-12-22T02:10:41.697643592Z",
+                    "validator_address": "E13AFDF3AB1A35CEC5CEAC9ED43B6C04FF6BE5B7"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "FyOiVLkZbwx8WZssd1+//sX4heTtS12hEWm/CW0Apd6F9Qlvff4BUEUZOpvubqR60BTOdw9gHbynDnDwbTzEAg==",
+                    "timestamp": "2022-12-22T02:10:41.445090148Z",
+                    "validator_address": "FE9E74DB60994CD032A95A4380D5C7BD09BF7690"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "NHBp9I72MWASNFhP3+bXOx0MNEZr1D4PZYKjGt+0Py0VttZQTpADdhxDCC1LX1B1X3s2ToAyoOIJ4Wdb+kM4Aw==",
+                    "timestamp": "2022-12-22T02:10:41.393804082Z",
+                    "validator_address": "390DF25A8E8B38ACA067B8CDF07679CD2D105F50"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "aqu1jCwnZJFkBogv0As8k0ZstjM1YRvSbRrI//jBisJebdeeJGF1Hd2L17WozsJrcyJ32ApzxphHstzf3XLeDw==",
+                    "timestamp": "2022-12-22T02:10:41.42325983Z",
+                    "validator_address": "B28539EDC93372D278E587E2002F9E0ED7028332"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "r4CG3nrTDNlSIiOQ9yo8kpPsnogDPqKG3SZkQghGPKg5lKQBauTRHir3r7XpA3kbYzyKhgMsGFVPc7db165YCQ==",
+                    "timestamp": "2022-12-22T02:10:41.405074164Z",
+                    "validator_address": "703C8FBA4A03DE83352CC8E74A6A930AEF3C2D0E"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "dteAyZPXrXag4JfWOWyYfYJaiXacDk/z5SnVL60LQPSJgxyghioK4PgPwOFEVBAM4+tuKiX6fMP6LsJiwlARDQ==",
+                    "timestamp": "2022-12-22T02:10:41.442903102Z",
+                    "validator_address": "8678DEA79C21F962BC6267081CC11C4A0EC4D8BA"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "grGaL/+sfh+lsTamEzjkKm7u4rc+JAmml8M5qRsX8VCM8rHA2x0IJSrvPucs33WHnzzYgqjWN1wmImSxa+SXBQ==",
+                    "timestamp": "2022-12-22T02:10:41.731245476Z",
+                    "validator_address": "A4C75BF2E94961541CD8AC6D0CF0EE71C018C1D0"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "B6EWfabtPQ/jh3y64qY3bY402n3F3aE2cnZPZbaxCV9zBPy3bChKjN817E8rnQQ4lWMvPTVBO9g32idjJkSQDA==",
+                    "timestamp": "2022-12-22T02:10:41.389679338Z",
+                    "validator_address": "401FEDE08F5DF7B853CD624176ED867FAB631796"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "1xeVOzPKlIRzK1cbLPxHRrAa+s0jjnpnydaQuzelwZ6wNwqOUsoRMCI+rKLO/BvT5k3vyeHpw8tIPcLngWBIBw==",
+                    "timestamp": "2022-12-22T02:10:41.435638005Z",
+                    "validator_address": "7B816BCCF55DA558D250AC4ED58DD43E515E260C"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "jRJ9xvZHlBVqDIWpEsV6eYxGZ1H3YYJuo/+nGhsz2TVfA/LScLLyimNmb7DfVv+NxUQnQ4G8LNDwN1t1yN41DA==",
+                    "timestamp": "2022-12-22T02:10:41.664326824Z",
+                    "validator_address": "AFB96C6B73F54ACCFBD090C9AB5D252C0BE3059B"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "PaiKyIq7vOqLiZFFtpFGTg1YnvCqptOxjgPfzilzdcNhwI2Cu1df502dVEdL3mwu6fAa39qYYBz7JNWHrE43AA==",
+                    "timestamp": "2022-12-22T02:10:41.555368213Z",
+                    "validator_address": "28E477061609182C6762EAD8CFD171EFB649E262"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "hxKxMIXZgZ91ZT6CH/pyEsDPDSuQj5P5lI/yiBKZ3hYf11W/CrKBcdoqTnJV/dnxP1sJbP03cO9O26BvZmHXCg==",
+                    "timestamp": "2022-12-22T02:10:41.392588473Z",
+                    "validator_address": "0EC9B78EA638A9976403A669D1D3B10462972C7F"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "kVFCm5Zz7gJE/DQ0CObG+lUyqQ2kERZChoFANomcphMeBXVgiLsZW3fHLX0oVDiTGM/p7Fv0I8qttlOS4GPQDg==",
+                    "timestamp": "2022-12-22T02:10:41.432501615Z",
+                    "validator_address": "3724E509EECFED0FE2BFDD9846836F42A4F21F5B"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "LiN8mWyaoPpB+fdeLemmHTaMHzML0txP8IkZopHTNzwdrbLo/qFkHrDxg0BPh4diD0McWRYnEUr+peY6HdsVDA==",
+                    "timestamp": "2022-12-22T02:10:42.609012218Z",
+                    "validator_address": "7CB63A7110729CB6C14FE5F14BF8D247D0B3D705"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "3lcxCSL14k3yPNNYt6bdM64wGhi4ltuVNPi7w6VTUgisfQewwXx+ic/tIZGJXO8Sa3Z68103fKBQXOK+qhFSAg==",
+                    "timestamp": "2022-12-22T02:10:41.444274555Z",
+                    "validator_address": "8E083B36D0527323B5C60789F178A2D2C31D7C7D"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "WaVGJAGuThG3NRqBTi30eQcJCgRYbL4onxe397RCL+VmWsOUJM0gtud2+3qzmdAxhNasr0NLuzSu7I4G6tlXCQ==",
+                    "timestamp": "2022-12-22T02:10:41.396678713Z",
+                    "validator_address": "BA6DE0B7A4C633839417B251A0EF5A2D2F65255F"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "JSpT687o2eZKNv/D2qbSZJZ9duTqlOnEeHpz2+GvXxkSYTTQIfl5oWSKCw+/CMqYQoc+0O85ua4oFlIvMW5vDg==",
+                    "timestamp": "2022-12-22T02:10:41.420066361Z",
+                    "validator_address": "2F2CCA202C52966CB6A77FC289D4621C5D25B9A6"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "niCgg2lhPQJbEmWv3x0dZ0TGPRYPO/o/bvBpvbEQnVwj9VElqnEzC/x+K2ACKmQaIw3lSpM4tLuzxrPVJJTyBA==",
+                    "timestamp": "2022-12-22T02:10:41.412252055Z",
+                    "validator_address": "FAE1B281108C97AFA73C3D720E630C6E394E4932"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "SP6QqU89PDa1EI+tmHdr4AsNB+JpndCqOU2GAn8mHkAWD2S1kzpBJfD5PiSxGx6b6czKLydcZ/tA9Ta/ng+MDA==",
+                    "timestamp": "2022-12-22T02:10:41.449317523Z",
+                    "validator_address": "87FDE4FCFED8C4E86316BFDF63E88919C6A06569"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "20mviYGFC2C+/SV7ssxUn5E18CqI404VIJzSVWJlhIxhjQY3KAOzkFOuSR8g+5XDSGpaHfrH+OU/atiwALaFCg==",
+                    "timestamp": "2022-12-22T02:10:41.422981178Z",
+                    "validator_address": "46E5C01760764C3493F54370CD0A116A40682954"
+                },
+                {
+                    "block_id_flag": 1,
+                    "signature": null,
+                    "timestamp": "0001-01-01T00:00:00Z",
+                    "validator_address": ""
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "ELOBUO3brl+vdUzcyK2bk2ubHk+ISZrRcOISmet22IPvFJ0CHMlsbagn+RSX4yVrHsIBWn1FUr086To6nT5WCA==",
+                    "timestamp": "2022-12-22T02:10:41.414942398Z",
+                    "validator_address": "0D50AA2D57A794E555350B491681341FB09302BA"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "ZpZR5P4+gAaSJc6cc/KN1oQvNqN+LeWWzCel1EVAyVmE8uXkCMhZCPqpjKAWeKvzC2vvSi8N1iLUSG5Hh9/gDA==",
+                    "timestamp": "2022-12-22T02:10:41.430968392Z",
+                    "validator_address": "3637E5E6099178BC597CD4564D1EFBA1BA871325"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "w3GjEKZFfvXc+Xz8v5LnqsmaTCdTbtmFNTYdnIKSruKLvSe3R86a3VrsX8PyC7e4asxqlt0Onm8MlNJy+HioDA==",
+                    "timestamp": "2022-12-22T02:10:41.479413618Z",
+                    "validator_address": "F15A3D1C8D7FA38B12E32FB5814EF5C187E1E4CF"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "7/xPOyzr4S6gPxay0xbx4g5hKufDrvcYZLiFBhaGWWwdw41PQRhV2jPgumO8fh83p84UndXMiYPSALi7PAIBAQ==",
+                    "timestamp": "2022-12-22T02:10:41.423139121Z",
+                    "validator_address": "4CAC8DD1518CBFC5FC007597406DD9AB4D69DFB3"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "9leOnpjibUHZ4cQ5vaAC5LBdOtzb4XLzeZGT3cXVc9EnS5bAe/mRbBbin3qGmjzgPRWrLbyG/0wyIMjaaeg6BA==",
+                    "timestamp": "2022-12-22T02:10:41.409778041Z",
+                    "validator_address": "F7A6BABF60CE7C3B8F90CEE3592EBAD622D8AADA"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "tX4SPB5EfDtwh0cp9mIFX8/cqFsgVFcKamZCVSkYx/2WF3bEPIcBBm4wu8afu5NGGEszspnQhnglBE4BvGGMBg==",
+                    "timestamp": "2022-12-22T02:10:41.479922647Z",
+                    "validator_address": "47A953149ECF19140F55C4763B77790A50324CD8"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "NKAFzZhCUKVphpMU1vkQ62nOrDb6BXL6AXXcrkfnxedawIHOnCA0tqkTCEXFbVvwMyLjxT8vtcWg5irD/jdlDg==",
+                    "timestamp": "2022-12-22T02:10:41.436953867Z",
+                    "validator_address": "E8F26C7248E95C26EA6E215F0DA950B9E647FDD8"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "tmMg2iYCCv/ZsVMqdssA4AkA8uVX6r8ccTeRzyLR7SSIhI3HmJkUm6uhErsV/k8NkhKp9eJ6U1OrvVN3DsfnDA==",
+                    "timestamp": "2022-12-22T02:10:41.728545328Z",
+                    "validator_address": "56589CA2A693F27B0BAD3090CCC0B048A681F2FD"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "4EXaQ9VCZIfBjo3tvEsrcbhVxGT151oooEiRvszPbz5lI+4E9he1oM5NRp4Rk6UbDf2GSgG/NACHsSXSAAnzCQ==",
+                    "timestamp": "2022-12-22T02:10:41.436992209Z",
+                    "validator_address": "E969B6C58609AA0E917CA78DA969C1FBAD7DCE28"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "vrP1zQRKSq094N92nRsitEXWSlbdFtBZovlfLrJtsxWr5yRi9o1sKO2YTfsesDeEKt8r13zVALu886ROVQatDw==",
+                    "timestamp": "2022-12-22T02:10:41.455272006Z",
+                    "validator_address": "38B48401FF4FE519AE20B3C48FA58B96961CADD3"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "PA665F5Xvl/sHd9vN2ekXP7/BvxPmS+3z0NRH3bk0qH8GnO4X9T2TF+UQkVdIruW9jYQQAF9xlnGJh8sHsMEBA==",
+                    "timestamp": "2022-12-22T02:10:41.456395251Z",
+                    "validator_address": "9EEE61849C5EEAF8EC8B12D0F5AD4B5A55EB8ABC"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "ydVBwDy6mhor9MY8Tq6V3XgI3IxQigSlq3LRHWgMajmk5MFfg89xMVcygfjU0jj/2SgTTc35ciB7MEue06NAAg==",
+                    "timestamp": "2022-12-22T02:10:42.509106907Z",
+                    "validator_address": "2192EFEF46C092FA8A862857EBA7557B68204A93"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "tZGK4LuaxvtOxkkkNodSMKJQ6ALQ+7CUJ5ndTeN41/HEjSuPJIHUCHK+mAkkAhLkGq3TbRvKK9uZ3LsgNeFeDg==",
+                    "timestamp": "2022-12-22T02:10:41.39712747Z",
+                    "validator_address": "FDA5CFAE255E20A14CF64319BEC508B39A9CC63D"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "hW+Q8HP0WPP7UU7L4GiG4IWHROd99GlKff/25pjlT6bEoIE5TCpDjgOjrKnRkMLcU7MQyvzjOn/l4M99VPJxAA==",
+                    "timestamp": "2022-12-22T02:10:41.400181006Z",
+                    "validator_address": "B5C2BAE624A60C22C78A48081886CCB112435402"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "FvSpcuhQ5BD+4wBRn8jGm3w3y8mw3qpw9T1BxU4iFzAB0NDXynMO2PNFi1s4HhaJl6IGHtOBEhX6qVyZlza+Aw==",
+                    "timestamp": "2022-12-22T02:10:41.44538682Z",
+                    "validator_address": "F3279DF175F975B67C4E1FCC1482B44A9FA4FC2D"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "4qIyBYUfTRrFY7ES5BSxITl1mfghULi56wWkbktbllIaeu3E5VplHBMIcKNEy0dfATWrCIOBAm3RLjToxf4rAA==",
+                    "timestamp": "2022-12-22T02:10:41.385570403Z",
+                    "validator_address": "DC47CB3367C97304E2807981579972D68BD486E4"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "Mso8IyNaFNmdxi/C3vPQCLq1y/V5/4bgni5iyYyNJHZzM4PaeMg3i783/21cjQSGh3kJqPxWY7f0sut8Z8KaCQ==",
+                    "timestamp": "2022-12-22T02:10:41.400616979Z",
+                    "validator_address": "B2659B938C948AC5F1A8BD129B783E790C1C987C"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "DsEp5pG3U2Il4i2WwsByhY0ViqBX0MrWzaA0DwvJJVbF/VJ2o2XjmdKfRrb2g61Em0aGcUdwafaGy4dIb/HSAA==",
+                    "timestamp": "2022-12-22T02:10:41.419206842Z",
+                    "validator_address": "EAA57195FAFF4278972713234EAF055E079687BE"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "uMEZoZikysethVeaK0yRtliTJMXPzsJWjnvt5ae/ZMVI+mqMjjZzKmKcQS9E0CTD7mwL7GdaPB3sEALX6BkiBw==",
+                    "timestamp": "2022-12-22T02:10:41.433243025Z",
+                    "validator_address": "BB3DA45DD4ACBA9FD59EC365369F458BDBE47D44"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "I1T9IKU/YhM4xLoMTfiyRlL6iVra7R7Rm/XNqHIkZMj1R2GlAD0qAMg+TlNa4yyMweKMfb5A33H2zOd14lfgBg==",
+                    "timestamp": "2022-12-22T02:10:41.46726654Z",
+                    "validator_address": "34CC054CD8D2FDA17FF38AEF5ECE3F0AE511D023"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "uCDqbzsli50ojM0bB6INfwTxF1ICwpn4m3iAaqttl39P3sP2TGpHqxb4FrbGAzavCnrk01GfAEKfUTC93hIyAw==",
+                    "timestamp": "2022-12-22T02:10:41.480407655Z",
+                    "validator_address": "C996795284EAFDC92D4F958E4A605979B0AE4848"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "equc0Y6PBX/sBtD8QRVb4Hv9XzQdXPHAiCLj+eByGmSE3jHZ0arz1gZpdRnZqhkNMqEH/nrcVymJxszBTwDDBA==",
+                    "timestamp": "2022-12-22T02:10:41.408477999Z",
+                    "validator_address": "4B2EC24A541B8E70DED66126BE1A27CDE8832E7D"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "M4i6hQ8b0O7nPWg4IsP9lraf3R6DHbwieV8rIuFalf8JsBRDhoZfBajpzEFhsXizAbHCGKlo9u+/QekPxXu3BQ==",
+                    "timestamp": "2022-12-22T02:10:41.413796861Z",
+                    "validator_address": "9CB0AE94157B877554AACF3FFB3BB2661791991C"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "8nE5aU0UZwE05OT+Dcw8N+yFtbwA/nFeH8RfGVntRqB13rntiUDi9zDRW2/ALPyvnwqOoJjKLEj1Row93ydzCQ==",
+                    "timestamp": "2022-12-22T02:10:41.384115761Z",
+                    "validator_address": "D1CFFAC7BA4A90DA2F0A5D211DA6F23C97263843"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "ppkGGiZfTGHGih9uZvGLs4HGcH7YHDFD3aFmyt9f5luELrvkvqnz4TbHTljdLCD9TFaJGqL9v2vwFZnL/t0LCw==",
+                    "timestamp": "2022-12-22T02:10:41.401837531Z",
+                    "validator_address": "CC06A9793165968446771A8C94AAA1BEC93AF7C2"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "n5QrJqL1q0Egq4SKBfD2aan7G3gXOajMKjdD4ODLX7wRHk56cl6R8bABwP/ZCjwNnLE5IbAab3Zd32RfLEVYAA==",
+                    "timestamp": "2022-12-22T02:10:41.408342463Z",
+                    "validator_address": "A903E877E236978422ADCD141B90AA56316B3F62"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "6o3l5pqpiedFYnx9KDbQY2mVNp8W1bl8ZmrwJf+U2MiTHSpbSW0UtmFn79anggl5TdKgeWTFFERFD3dOk8jVAA==",
+                    "timestamp": "2022-12-22T02:10:41.443999169Z",
+                    "validator_address": "60F3B0FA4FF3703FCE79522F8330F980E29234DE"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "LQjar4MCvh0TlO4hB/Wud0xmjef0uXzHnHzfIEj88aFkTgXJTA2910FYmrPzldRu1kscqAW1+hIIr1gdgo87Dg==",
+                    "timestamp": "2022-12-22T02:10:41.797486681Z",
+                    "validator_address": "0072F1C831E2239801E81B471EB37DA60FB943EB"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "sUDGei31W/pp+6sAF5E/hDsPNUh6FD5gmuQf7sMCfp/RLZosnynALkon7nLfx1bKLuBzU0UOydUgY484c4wGAQ==",
+                    "timestamp": "2022-12-22T02:10:41.467110983Z",
+                    "validator_address": "B10095720900EAEB989972F99A1CC087A7442188"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "KJOKmGqPpZLzjI0a9nQ8o4x6kIjRQ3haidmj117jwhMuBXJ0sZuL+V+Q+Vtd9/0aj2bUPwzdsGMyR/9+EfSvCQ==",
+                    "timestamp": "2022-12-22T02:10:41.417583885Z",
+                    "validator_address": "953A851D650EF3815A0AA318B60552D4172E422C"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "rIz3GiJ0D73nkZ/wv7vYX1TjseETaslePwOKSBbbPtgkIAVJJvOX243R8bY+SAgPcOmiZ6zr1KPinZgOVugbBg==",
+                    "timestamp": "2022-12-22T02:10:41.479846Z",
+                    "validator_address": "98A05FA607804F99069BED8D9136E81D503BEF3B"
+                },
+                {
+                    "block_id_flag": 2,
+                    "signature": "fRdSS2woaJeRGDoCvIlxQdQVAuARmfVjAt3lUjr2YdhuEyP5niW3oaqXHwhCKSBaOgjNBS6ehzb28jm55Fd/CQ==",
+                    "timestamp": "2022-12-22T02:10:41.550695438Z",
+                    "validator_address": "F808456417218706935372C04B0125D9431A6DF5"
+                }
+            ]
+        }
+    },
+    "proposal_block_parts": {
+        "count/total": "1/1",
+        "parts_bit_array": "x"
+    },
+    "round": 1,
+    "start_time": "2022-12-22T18:18:23.634110875Z",
+    "step": 8,
+    "triggered_timeout_precommit": false,
+    "valid_block": null,
+    "valid_block_parts": null,
+    "valid_round": -1,
+    "validators": {
+        "proposer": {
+            "address": "4FA0C000B17D7B3B7DFEA852EA2CD3C23A65798F",
+            "proposer_priority": -26234337,
+            "pub_key": "U0+HDWZknsQ0/9j4Q4+5qYK50Vg+MWdCHPein2syqE4=",
+            "voting_power": 6246498
+        },
+        "validators": [
+            {
+                "address": "E8F8FCABCE9B549C1588440D0F1D70F88EA2D1D9",
+                "proposer_priority": -13330300,
+                "pub_key": "lRDP1+uNifi05EVaJH3f2l6/0rXfroFh5izPZ2xPjOU=",
+                "voting_power": 10090010
+            },
+            {
+                "address": "4FA0C000B17D7B3B7DFEA852EA2CD3C23A65798F",
+                "proposer_priority": -26234337,
+                "pub_key": "U0+HDWZknsQ0/9j4Q4+5qYK50Vg+MWdCHPein2syqE4=",
+                "voting_power": 6246498
+            },
+            {
+                "address": "213886810D6A81CA0419F775E450E8DD4C9B8EA6",
+                "proposer_priority": -5268968,
+                "pub_key": "z3Lgk5Lf9vY5vX5vVMJ4io0Qa/463Rz9id9pEnGnamI=",
+                "voting_power": 5429894
+            },
+            {
+                "address": "D386384691536DE1D6A03BFCADD65682B7FE8B5A",
+                "proposer_priority": 34705874,
+                "pub_key": "WeBiHvOpdsAuKp24F05t+cQfrlIMTm2U7IV7qYLg29s=",
+                "voting_power": 4571004
+            },
+            {
+                "address": "0309E65D49C368677F13F2C915FE4297964D2153",
+                "proposer_priority": 1158383,
+                "pub_key": "r4ZGCbBXxrlwiDUQ677NI/xsqLhFC+AlVkGm4jLpwvY=",
+                "voting_power": 4500046
+            },
+            {
+                "address": "D700B20FFA9EE27656A446109557969B3E2F9661",
+                "proposer_priority": -3318463,
+                "pub_key": "a7PxwB5Yrb7YBp3hxaKQzoLIfoCBOVFi4LVRkhSYhx4=",
+                "voting_power": 3930091
+            },
+            {
+                "address": "24359B9BF226CF27E0EFA11A30EFA176A7CA1919",
+                "proposer_priority": 11369264,
+                "pub_key": "HAjQgl976XcpOH8TCfGqYa93WSv8ACYmiVx9HNmod8M=",
+                "voting_power": 3810001
+            },
+            {
+                "address": "0F364709D778271BDC4BEDE6337B607C370DE6EE",
+                "proposer_priority": 15625954,
+                "pub_key": "O2MAemF2ZcIb+dXMXZdVBNYvB/vVuzyQAcRLdUSG+7M=",
+                "voting_power": 2550098
+            },
+            {
+                "address": "6F386D64B3BC29DA7728A42CEFCD368CC2F747D0",
+                "proposer_priority": 9635097,
+                "pub_key": "5ItZqcPCDYkxVIGFZHZWOg4TFbrWlU0iQXpq+ZvgrzI=",
+                "voting_power": 2279861
+            },
+            {
+                "address": "38D224A7E43BC42E3CA42961B2BFAF12369AA02B",
+                "proposer_priority": 8692215,
+                "pub_key": "VbKZ7sEn0qZzChocy1CRmSHnwHLEntLkwQUvUmqgwgk=",
+                "voting_power": 2150910
+            },
+            {
+                "address": "517C9EDF350C5038CC788B6C0704B1F7C40BD2EF",
+                "proposer_priority": -7478756,
+                "pub_key": "RlyCXPK6OibsXhUXea0WiA3Bv8+S90av0RbOSFYtyB8=",
+                "voting_power": 1930100
+            },
+            {
+                "address": "50F4AED65A099CE099866589E03539BC91FE4C22",
+                "proposer_priority": 2238552,
+                "pub_key": "nYDyt6pHhlvuBejG4wZN899tO0dsboxvLmMgKp5fzBw=",
+                "voting_power": 1675049
+            },
+            {
+                "address": "3796E01FF5873F89ED6C1A018B35CA2CAF8C898F",
+                "proposer_priority": 19502367,
+                "pub_key": "h7W6wznnqveytJwhEbH5elE4N+t0aZefNIyfLq5uY+0=",
+                "voting_power": 1519992
+            },
+            {
+                "address": "BC88DB57CE9C762EF9035F476875BB0EA08E5886",
+                "proposer_priority": 1646483,
+                "pub_key": "xLvN2hszV1uY3ZyNf40ipR0OinvpE+RBuNQQMR4hsj4=",
+                "voting_power": 1300000
+            },
+            {
+                "address": "4AC363624687DBE1C4C4E7ED9E908D49A3F8EC45",
+                "proposer_priority": 2343669,
+                "pub_key": "F11Sz9U53eBQwrLP8hntKTLbtQL12IOIwmfbpv+tgKg=",
+                "voting_power": 1181778
+            },
+            {
+                "address": "D61C71DE7AA2300E5815B28CF70CC9FD9AF98A3D",
+                "proposer_priority": 26065404,
+                "pub_key": "muPGFu+DjsAJNVVs58j1N8cw9dEoxb15qpRDRtje9SU=",
+                "voting_power": 1116001
+            },
+            {
+                "address": "E13AFDF3AB1A35CEC5CEAC9ED43B6C04FF6BE5B7",
+                "proposer_priority": 29520735,
+                "pub_key": "kW+rvlWLSL/hekHPjTaRKHukipJgo7xk8BFIAyzWcZg=",
+                "voting_power": 1015879
+            },
+            {
+                "address": "FE9E74DB60994CD032A95A4380D5C7BD09BF7690",
+                "proposer_priority": 11085288,
+                "pub_key": "cd2WE3+dHZ9Xyv2yOllkiJv2ZIvNSq3InAt9d87YMYQ=",
+                "voting_power": 975010
+            },
+            {
+                "address": "390DF25A8E8B38ACA067B8CDF07679CD2D105F50",
+                "proposer_priority": -2670770,
+                "pub_key": "662Myf/TVbbbmHw3TxINiFa/KWVvre6T0pWnsiy/v+U=",
+                "voting_power": 584000
+            },
+            {
+                "address": "B28539EDC93372D278E587E2002F9E0ED7028332",
+                "proposer_priority": 32617550,
+                "pub_key": "cPEZqjNBZfQOUzYFcLu96F0s6TITsIkW5iwtbf8htn0=",
+                "voting_power": 560000
+            },
+            {
+                "address": "703C8FBA4A03DE83352CC8E74A6A930AEF3C2D0E",
+                "proposer_priority": 17668302,
+                "pub_key": "6DnbrHMEuGfO1N9UfPCOFN1G6XrJL1ReSeVxFzN8r+k=",
+                "voting_power": 484593
+            },
+            {
+                "address": "8678DEA79C21F962BC6267081CC11C4A0EC4D8BA",
+                "proposer_priority": -8271018,
+                "pub_key": "1gk2+PhCfAiJZYKhwEOumId/l/GEy4AlzgnsHEdUOVI=",
+                "voting_power": 449758
+            },
+            {
+                "address": "A4C75BF2E94961541CD8AC6D0CF0EE71C018C1D0",
+                "proposer_priority": -20665697,
+                "pub_key": "jRahUUSvg75PArugFZS5ns/iX9ohDmA4Y7xiNOpaTvg=",
+                "voting_power": 263988
+            },
+            {
+                "address": "401FEDE08F5DF7B853CD624176ED867FAB631796",
+                "proposer_priority": 9703799,
+                "pub_key": "2nDikxixwzOM01G9w4lCxLJrCka7Z5DZppaCXEDK7L0=",
+                "voting_power": 249700
+            },
+            {
+                "address": "7B816BCCF55DA558D250AC4ED58DD43E515E260C",
+                "proposer_priority": 7010947,
+                "pub_key": "1/oyKmmcWU++hTpdbewBPAH243hjoiSv/FDtZRcnPdg=",
+                "voting_power": 220010
+            },
+            {
+                "address": "AFB96C6B73F54ACCFBD090C9AB5D252C0BE3059B",
+                "proposer_priority": -974764,
+                "pub_key": "RPTwt8cTUAfSjvIBCcAzbaz4nrZECZb3dF8QBuohKqY=",
+                "voting_power": 200002
+            },
+            {
+                "address": "28E477061609182C6762EAD8CFD171EFB649E262",
+                "proposer_priority": 17662376,
+                "pub_key": "Irwgr04SfUZfAXmtAgq43tWFmhYBy3Rva6kd6gn5n+U=",
+                "voting_power": 170012
+            },
+            {
+                "address": "0EC9B78EA638A9976403A669D1D3B10462972C7F",
+                "proposer_priority": -25971022,
+                "pub_key": "Il27wiW/d1xQRfofpJGXYJDm2eABVIDPAdTyM64280A=",
+                "voting_power": 150010
+            },
+            {
+                "address": "3724E509EECFED0FE2BFDD9846836F42A4F21F5B",
+                "proposer_priority": 36039014,
+                "pub_key": "/C05fvS/vCKc0MA1wKwjF5lTiPIrPKJg8U/aBbCMUKI=",
+                "voting_power": 150001
+            },
+            {
+                "address": "7CB63A7110729CB6C14FE5F14BF8D247D0B3D705",
+                "proposer_priority": 33651787,
+                "pub_key": "uRBzOnWoq14FkAA7gqvTWQGEwJ7uDv+XEGRRCF1BNfU=",
+                "voting_power": 149950
+            },
+            {
+                "address": "8E083B36D0527323B5C60789F178A2D2C31D7C7D",
+                "proposer_priority": 19041806,
+                "pub_key": "rKWSCRlXeESnYSX6PFCTWrbiILhFV8nLxOCvfSsjKMc=",
+                "voting_power": 149853
+            },
+            {
+                "address": "BA6DE0B7A4C633839417B251A0EF5A2D2F65255F",
+                "proposer_priority": 18950976,
+                "pub_key": "FRGlGhIYSIKzDejSyifj/xjBwL8ms3GyaBV8UQy3n3U=",
+                "voting_power": 149851
+            },
+            {
+                "address": "2F2CCA202C52966CB6A77FC289D4621C5D25B9A6",
+                "proposer_priority": 4035500,
+                "pub_key": "qDh7UvaXW5RP2z+axaxDHwfMK+f8tfAUPuLFDVHQrR8=",
+                "voting_power": 148004
+            },
+            {
+                "address": "FAE1B281108C97AFA73C3D720E630C6E394E4932",
+                "proposer_priority": -19478449,
+                "pub_key": "JWRXWZ9phE91gBL2V1SZPV1LcTUbzPB6DEn4qK4jbsM=",
+                "voting_power": 144100
+            },
+            {
+                "address": "87FDE4FCFED8C4E86316BFDF63E88919C6A06569",
+                "proposer_priority": 6657497,
+                "pub_key": "nSMuKZB5XaSG4UfdYodLglXU8YIbfAA77xZrItIME1k=",
+                "voting_power": 113334
+            },
+            {
+                "address": "46E5C01760764C3493F54370CD0A116A40682954",
+                "proposer_priority": 30935347,
+                "pub_key": "gUEVGGkVatClHAR1U5pMwo4jJrF92iS2MmPlWfywfjo=",
+                "voting_power": 112010
+            },
+            {
+                "address": "21E0AEA965E98386536A02674B845DC70F873976",
+                "proposer_priority": -26283259,
+                "pub_key": "+lDnNaB58Q2r4corT6tvbCM3aH5yBrle4OescdVJa4I=",
+                "voting_power": 109900
+            },
+            {
+                "address": "0D50AA2D57A794E555350B491681341FB09302BA",
+                "proposer_priority": 31511719,
+                "pub_key": "apSIdqpYVDw1Qg7FojDtimrYI7NP7IXs2TIw5WzgqSg=",
+                "voting_power": 109785
+            },
+            {
+                "address": "3637E5E6099178BC597CD4564D1EFBA1BA871325",
+                "proposer_priority": -14582258,
+                "pub_key": "upS+e0WckdCtiVN7XUtWEx64yhw6os+0RgZ7GFVx6EA=",
+                "voting_power": 100100
+            },
+            {
+                "address": "F15A3D1C8D7FA38B12E32FB5814EF5C187E1E4CF",
+                "proposer_priority": -14582670,
+                "pub_key": "W63wOYI2KRmNygw8Fp/9u3ZOeoBh/glwX66gIHEAsOU=",
+                "voting_power": 100100
+            },
+            {
+                "address": "4CAC8DD1518CBFC5FC007597406DD9AB4D69DFB3",
+                "proposer_priority": -17812098,
+                "pub_key": "Z5ntUCqIaGrGBztdhee6B/5HZnVkRX3joaKY1d+NLG4=",
+                "voting_power": 100050
+            },
+            {
+                "address": "F7A6BABF60CE7C3B8F90CEE3592EBAD622D8AADA",
+                "proposer_priority": -20486166,
+                "pub_key": "2+cfuR00QDcYTZmZM4ThK5T0Cv6hxCev/COkU2rXDTo=",
+                "voting_power": 100045
+            },
+            {
+                "address": "47A953149ECF19140F55C4763B77790A50324CD8",
+                "proposer_priority": -22456544,
+                "pub_key": "Ap07oYAf0qZYB9c45CCRbQ/ZhbsDiwEvzn1LAJOwr9M=",
+                "voting_power": 100010
+            },
+            {
+                "address": "E8F26C7248E95C26EA6E215F0DA950B9E647FDD8",
+                "proposer_priority": -22457794,
+                "pub_key": "pBBMhPOSmRQXfhjxm9DhHcnjEfhUUFw+wPFWtc05jlg=",
+                "voting_power": 100010
+            },
+            {
+                "address": "56589CA2A693F27B0BAD3090CCC0B048A681F2FD",
+                "proposer_priority": -22583886,
+                "pub_key": "Y15e/kDkLwS8sNbppfV7mpjcGRSo8R4am8avYDUyOsQ=",
+                "voting_power": 100009
+            },
+            {
+                "address": "E969B6C58609AA0E917CA78DA969C1FBAD7DCE28",
+                "proposer_priority": -22267205,
+                "pub_key": "MTjfNcsRBVj5xaAPvJp3v4E/Re7rE2NLtwjXD27UxIk=",
+                "voting_power": 100005
+            },
+            {
+                "address": "38B48401FF4FE519AE20B3C48FA58B96961CADD3",
+                "proposer_priority": -13542980,
+                "pub_key": "2gVv0oMop+g1RPnPNqPYBUcDnsgIOBQ5xm6l98YWQmA=",
+                "voting_power": 100000
+            },
+            {
+                "address": "9EEE61849C5EEAF8EC8B12D0F5AD4B5A55EB8ABC",
+                "proposer_priority": 12714387,
+                "pub_key": "147UZgVTMmlEVbnZ7Evo93SPCdaC882xOW/h08zOrAY=",
+                "voting_power": 99901
+            },
+            {
+                "address": "2192EFEF46C092FA8A862857EBA7557B68204A93",
+                "proposer_priority": -20668708,
+                "pub_key": "4EWcJqC3BG1HVV5CJwYbgN4t+vA4JY93c8/HfKfDNp0=",
+                "voting_power": 99900
+            },
+            {
+                "address": "FDA5CFAE255E20A14CF64319BEC508B39A9CC63D",
+                "proposer_priority": 20914499,
+                "pub_key": "EoC7Uh50JrgIZNRlWpVLO+zuOd7r7c+if/4POZG1Mcs=",
+                "voting_power": 90013
+            },
+            {
+                "address": "B5C2BAE624A60C22C78A48081886CCB112435402",
+                "proposer_priority": 15409401,
+                "pub_key": "+BOgwC2B+hR0mUkF/p6Qag92q7H2WDjHNiGJYs6CkPc=",
+                "voting_power": 74009
+            },
+            {
+                "address": "F3279DF175F975B67C4E1FCC1482B44A9FA4FC2D",
+                "proposer_priority": 25295564,
+                "pub_key": "BH8wAA3l9ldh8E7F30kGRCv8pvFolCliaApp8WZw6c4=",
+                "voting_power": 70012
+            },
+            {
+                "address": "DC47CB3367C97304E2807981579972D68BD486E4",
+                "proposer_priority": 24924604,
+                "pub_key": "JdAc1QRfDof4Gcx/zMjNXdSM8R//izyOgvxzJay8UjI=",
+                "voting_power": 50029
+            },
+            {
+                "address": "B2659B938C948AC5F1A8BD129B783E790C1C987C",
+                "proposer_priority": -1047421,
+                "pub_key": "M2vODkpiqqiaZ8arekMVQXbnB/LacMHVej4BgKDP6og=",
+                "voting_power": 20119
+            },
+            {
+                "address": "EAA57195FAFF4278972713234EAF055E079687BE",
+                "proposer_priority": -2847864,
+                "pub_key": "HHqykw7CktdTRGRnLy4m/oT/rMnRrAz82g7u8EDv4cg=",
+                "voting_power": 13352
+            },
+            {
+                "address": "BB3DA45DD4ACBA9FD59EC365369F458BDBE47D44",
+                "proposer_priority": -4211214,
+                "pub_key": "Y5vGhd3kGSc10BkghLpXLU+zpbBfucN1ri6y0o75MvI=",
+                "voting_power": 13323
+            },
+            {
+                "address": "34CC054CD8D2FDA17FF38AEF5ECE3F0AE511D023",
+                "proposer_priority": -20284092,
+                "pub_key": "yO5a2KmxRJzt9sdcWuiahkAfHMEUHbMn2kPB5oEZf4E=",
+                "voting_power": 10169
+            },
+            {
+                "address": "C996795284EAFDC92D4F958E4A605979B0AE4848",
+                "proposer_priority": -16969178,
+                "pub_key": "4ez3cwzBAXePJfcEHQebtfC63XF5DDRLmtZQHEUxdSk=",
+                "voting_power": 10141
+            },
+            {
+                "address": "4B2EC24A541B8E70DED66126BE1A27CDE8832E7D",
+                "proposer_priority": 22958304,
+                "pub_key": "PBaawEgh99V7yxAdIaGM1Vn9AbmzGWEXJJwOiXF6VuI=",
+                "voting_power": 10097
+            },
+            {
+                "address": "9CB0AE94157B877554AACF3FFB3BB2661791991C",
+                "proposer_priority": 14329359,
+                "pub_key": "ZnTDZ7U7zh27wDdY0w8wZjOr4d69HXwl+ZeNTIE9uzQ=",
+                "voting_power": 9001
+            },
+            {
+                "address": "D1CFFAC7BA4A90DA2F0A5D211DA6F23C97263843",
+                "proposer_priority": -18438124,
+                "pub_key": "B7rLC5CQ4Vylqe9mTyUTUOuzgj55BVLyLDEZWxiILuc=",
+                "voting_power": 5001
+            },
+            {
+                "address": "CC06A9793165968446771A8C94AAA1BEC93AF7C2",
+                "proposer_priority": -20639110,
+                "pub_key": "XhFbCHFtN/71cw7cTUta6mo7wHqtUEkEUATIdTB55FA=",
+                "voting_power": 3461
+            },
+            {
+                "address": "A903E877E236978422ADCD141B90AA56316B3F62",
+                "proposer_priority": -20314528,
+                "pub_key": "+fIvOOHu1hTm/K9EfK3mDNq2WTNvSW5JP9eYednrp1c=",
+                "voting_power": 3459
+            },
+            {
+                "address": "60F3B0FA4FF3703FCE79522F8330F980E29234DE",
+                "proposer_priority": -50164593,
+                "pub_key": "in17/K4RQq1cGWArJMWf/Y2FepFfV9ylhHuZd9zti3M=",
+                "voting_power": 108
+            },
+            {
+                "address": "0072F1C831E2239801E81B471EB37DA60FB943EB",
+                "proposer_priority": -22191878,
+                "pub_key": "u+OJrk3F+IJejcppgDNoxniIvqbm6huU2d45M0ezULc=",
+                "voting_power": 101
+            },
+            {
+                "address": "B10095720900EAEB989972F99A1CC087A7442188",
+                "proposer_priority": 6212140,
+                "pub_key": "Nd3TxB0XOxmfjqY3Qw9wyMFkq26WbxKdN7VDFiNk+5Y=",
+                "voting_power": 90
+            },
+            {
+                "address": "953A851D650EF3815A0AA318B60552D4172E422C",
+                "proposer_priority": -50903587,
+                "pub_key": "K/gTS9PchYumQSFORMEZFgPtPRVC1EMqEwt0YCp2Azc=",
+                "voting_power": 89
+            },
+            {
+                "address": "98A05FA607804F99069BED8D9136E81D503BEF3B",
+                "proposer_priority": -1157140,
+                "pub_key": "nQ5URngVHGa7Nz30Q39ppm2qPEzoPHsUa6DXTpbbmic=",
+                "voting_power": 89
+            },
+            {
+                "address": "F808456417218706935372C04B0125D9431A6DF5",
+                "proposer_priority": -1279289,
+                "pub_key": "1VXkkMNztRyvkZEmmcxP/4jMY0z1imJegm9rQz12bDI=",
+                "voting_power": 89
+            }
+        ]
+    },
+    "votes": [
+        {
+            "precommits": [
+                "Vote{0:E8F8FCABCE9B 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 D972EED42429 @ 2022-12-22T02:10:50.164567404Z}",
+                "Vote{1:4FA0C000B17D 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 4690049D084C @ 2022-12-22T02:10:49.900146035Z}",
+                "Vote{2:213886810D6A 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 C165234D1800 @ 2022-12-22T02:10:49.972414501Z}",
+                "Vote{3:D38638469153 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 ECFBB7FA7C76 @ 2022-12-22T02:10:49.894156335Z}",
+                "Vote{4:0309E65D49C3 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 C9D43B1299E1 @ 2022-12-22T02:10:49.916477283Z}",
+                "Vote{5:D700B20FFA9E 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 9703C59145D3 @ 2022-12-22T02:10:49.946106663Z}",
+                "Vote{6:24359B9BF226 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 60A58A11DA0E @ 2022-12-22T02:10:49.908116278Z}",
+                "Vote{7:0F364709D778 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 3BB3FB359E78 @ 2022-12-22T02:10:49.90557222Z}",
+                "Vote{8:6F386D64B3BC 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 A10FB415BD1B @ 2022-12-22T02:10:49.927619193Z}",
+                "Vote{9:38D224A7E43B 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 7D3498F52472 @ 2022-12-22T02:10:49.900595199Z}",
+                "Vote{10:517C9EDF350C 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 369D80DF115C @ 2022-12-22T02:10:49.917457311Z}",
+                "Vote{11:50F4AED65A09 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 712A9BB4C861 @ 2022-12-22T02:10:49.894715072Z}",
+                "Vote{12:3796E01FF587 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 531E65261550 @ 2022-12-22T02:10:49.930252524Z}",
+                "Vote{13:BC88DB57CE9C 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 B444C99CDCA4 @ 2022-12-22T02:10:49.937460287Z}",
+                "Vote{14:4AC363624687 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 98AA02817DFA @ 2022-12-22T02:10:49.882122124Z}",
+                "Vote{15:D61C71DE7AA2 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 2D7B0B588BBA @ 2022-12-22T02:10:49.911299867Z}",
+                "Vote{16:E13AFDF3AB1A 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 959B6B1E380B @ 2022-12-22T02:10:49.901699244Z}",
+                "Vote{17:FE9E74DB6099 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 84AE2F41E30C @ 2022-12-22T02:10:49.902740098Z}",
+                "Vote{18:390DF25A8E8B 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 FF4C56F8B584 @ 2022-12-22T02:10:49.897656301Z}",
+                "Vote{19:B28539EDC933 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 3210346BE6C5 @ 2022-12-22T02:10:49.919980683Z}",
+                "Vote{20:703C8FBA4A03 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 B01E40AF4E56 @ 2022-12-22T02:10:49.895046731Z}",
+                "Vote{21:8678DEA79C21 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 2A64BB34215B @ 2022-12-22T02:10:49.895520038Z}",
+                "Vote{22:A4C75BF2E949 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 E03AF0C384A3 @ 2022-12-22T02:10:50.011534563Z}",
+                "Vote{23:401FEDE08F5D 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 90419D4B824B @ 2022-12-22T02:10:49.885851375Z}",
+                "Vote{24:7B816BCCF55D 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 8DB547965EDC @ 2022-12-22T02:10:49.964861977Z}",
+                "Vote{25:AFB96C6B73F5 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 B2E037297196 @ 2022-12-22T02:10:50.124146165Z}",
+                "Vote{26:28E477061609 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 02CE0B30EC5D @ 2022-12-22T02:10:49.910701688Z}",
+                "Vote{27:0EC9B78EA638 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 C25C7784A636 @ 2022-12-22T02:10:49.879958552Z}",
+                "Vote{28:3724E509EECF 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 1D90439CA775 @ 2022-12-22T02:10:49.892528791Z}",
+                "Vote{29:7CB63A711072 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 DD8D8F35E2CB @ 2022-12-22T02:10:50.579428546Z}",
+                "Vote{30:8E083B36D052 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 6B36FF3CF3F2 @ 2022-12-22T02:10:49.9327691Z}",
+                "Vote{31:BA6DE0B7A4C6 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 9F266C9DE364 @ 2022-12-22T02:10:49.897096424Z}",
+                "Vote{32:2F2CCA202C52 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 CE3DDCE6BC67 @ 2022-12-22T02:10:50.020760513Z}",
+                "Vote{33:FAE1B281108C 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 2410B035F5FB @ 2022-12-22T02:10:49.880272617Z}",
+                "Vote{34:87FDE4FCFED8 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 2C84D004E2E6 @ 2022-12-22T02:10:49.91215842Z}",
+                "Vote{35:46E5C0176076 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 2C81C2BB854C @ 2022-12-22T02:10:49.920448912Z}",
+                "nil-Vote",
+                "Vote{37:0D50AA2D57A7 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 322DFEF4162B @ 2022-12-22T02:10:49.902033087Z}",
+                "Vote{38:3637E5E60991 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 CF02DD25F427 @ 2022-12-22T02:10:49.935395302Z}",
+                "Vote{39:F15A3D1C8D7F 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 84AF835E5E9C @ 2022-12-22T02:10:49.931701474Z}",
+                "Vote{40:4CAC8DD1518C 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 FE78B4D033EC @ 2022-12-22T02:10:49.905979532Z}",
+                "Vote{41:F7A6BABF60CE 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 1B23D68971A7 @ 2022-12-22T02:10:49.906154902Z}",
+                "Vote{42:47A953149ECF 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 D41ACBA32D02 @ 2022-12-22T02:10:49.932753994Z}",
+                "Vote{43:E8F26C7248E9 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 FCDDF08F1E52 @ 2022-12-22T02:10:49.882385034Z}",
+                "Vote{44:56589CA2A693 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 34A9AB44C4AF @ 2022-12-22T02:10:49.891228548Z}",
+                "Vote{45:E969B6C58609 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 8A71B8727A32 @ 2022-12-22T02:10:49.917790732Z}",
+                "Vote{46:38B48401FF4F 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 234E18F39AC4 @ 2022-12-22T02:10:49.925997162Z}",
+                "Vote{47:9EEE61849C5E 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 E8E271D31410 @ 2022-12-22T02:10:49.91349547Z}",
+                "Vote{48:2192EFEF46C0 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 A3AB481DC01E @ 2022-12-22T02:10:50.141437846Z}",
+                "Vote{49:FDA5CFAE255E 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 80D0A7DF2C59 @ 2022-12-22T02:10:49.897719768Z}",
+                "Vote{50:B5C2BAE624A6 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 5E4AACE34DFA @ 2022-12-22T02:10:49.877927588Z}",
+                "Vote{51:F3279DF175F9 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 302B5737229C @ 2022-12-22T02:10:49.939188532Z}",
+                "Vote{52:DC47CB3367C9 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 09C4AD80A6E0 @ 2022-12-22T02:10:49.892335153Z}",
+                "Vote{53:B2659B938C94 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 1295A1AB2667 @ 2022-12-22T02:10:49.903423849Z}",
+                "Vote{54:EAA57195FAFF 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 1F411B87BDC4 @ 2022-12-22T02:10:49.892847415Z}",
+                "Vote{55:BB3DA45DD4AC 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 782EB16395AD @ 2022-12-22T02:10:49.900750661Z}",
+                "Vote{56:34CC054CD8D2 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 BC629DDE1DBE @ 2022-12-22T02:10:49.911309423Z}",
+                "Vote{57:C996795284EA 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 CA40E9ECAFC2 @ 2022-12-22T02:10:49.986605182Z}",
+                "Vote{58:4B2EC24A541B 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 B48211571828 @ 2022-12-22T02:10:49.894046164Z}",
+                "Vote{59:9CB0AE94157B 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 BC6E757A54A0 @ 2022-12-22T02:10:49.901350418Z}",
+                "Vote{60:D1CFFAC7BA4A 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 0B80FAAC0774 @ 2022-12-22T02:10:49.893473012Z}",
+                "Vote{61:CC06A9793165 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 C2EE2A8C955D @ 2022-12-22T02:10:49.912028001Z}",
+                "Vote{62:A903E877E236 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 F7C7013E047C @ 2022-12-22T02:10:49.90485807Z}",
+                "Vote{63:60F3B0FA4FF3 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 B4A5BB14FD58 @ 2022-12-22T02:10:49.909384515Z}",
+                "Vote{64:0072F1C831E2 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 CBE1C02EEE17 @ 2022-12-22T02:10:49.97282035Z}",
+                "Vote{65:B10095720900 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 56AD44935D0C @ 2022-12-22T02:10:49.951370395Z}",
+                "Vote{66:953A851D650E 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 24B2AAEC999D @ 2022-12-22T02:10:49.915854349Z}",
+                "Vote{67:98A05FA60780 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 3808D8515AD6 @ 2022-12-22T02:10:49.916576682Z}",
+                "Vote{68:F80845641721 1497396/00/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 000000000000 840687E23B36 @ 2022-12-22T02:10:50.271746328Z}"
+            ],
+            "precommits_bit_array": "BA{69:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx} 62314065/62423965 = 1.00",
+            "prevotes": [
+                "Vote{0:E8F8FCABCE9B 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 3A72B828F79B @ 2022-12-22T02:10:49.963192416Z}",
+                "Vote{1:4FA0C000B17D 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 9C7E65E409B0 @ 2022-12-22T02:10:49.685271384Z}",
+                "Vote{2:213886810D6A 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 DC1396E0358A @ 2022-12-22T02:10:49.757779874Z}",
+                "Vote{3:D38638469153 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 4985388967D9 @ 2022-12-22T02:10:49.676961603Z}",
+                "Vote{4:0309E65D49C3 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 7F72CD5FFA90 @ 2022-12-22T02:10:49.69336274Z}",
+                "Vote{5:D700B20FFA9E 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 2028DAAA2A4F @ 2022-12-22T02:10:49.726457861Z}",
+                "Vote{6:24359B9BF226 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 BF71A4AE700D @ 2022-12-22T02:10:49.667433877Z}",
+                "Vote{7:0F364709D778 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 1D3F227B861A @ 2022-12-22T02:10:49.694674014Z}",
+                "Vote{8:6F386D64B3BC 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 4A6CCB497975 @ 2022-12-22T02:10:49.762278916Z}",
+                "Vote{9:38D224A7E43B 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 3D743FD30A45 @ 2022-12-22T02:10:49.706828303Z}",
+                "Vote{10:517C9EDF350C 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 97CB3821EE1B @ 2022-12-22T02:10:49.700519162Z}",
+                "Vote{11:50F4AED65A09 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 D809676EBADD @ 2022-12-22T02:10:49.67860236Z}",
+                "Vote{12:3796E01FF587 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 580221724731 @ 2022-12-22T02:10:49.719846871Z}",
+                "Vote{13:BC88DB57CE9C 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 F51A68616E17 @ 2022-12-22T02:10:49.766993808Z}",
+                "Vote{14:4AC363624687 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 0324A00BD1E9 @ 2022-12-22T02:10:49.692476835Z}",
+                "Vote{15:D61C71DE7AA2 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 F42D8630EDB2 @ 2022-12-22T02:10:49.651698443Z}",
+                "Vote{16:E13AFDF3AB1A 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 A90A049E7AFB @ 2022-12-22T02:10:49.700553989Z}",
+                "Vote{17:FE9E74DB6099 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 110FEC415AAE @ 2022-12-22T02:10:49.684484747Z}",
+                "Vote{18:390DF25A8E8B 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 17E73BF77D93 @ 2022-12-22T02:10:49.701932167Z}",
+                "Vote{19:B28539EDC933 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 39C8214944E1 @ 2022-12-22T02:10:49.699426645Z}",
+                "Vote{20:703C8FBA4A03 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 B2BAC1776AE0 @ 2022-12-22T02:10:49.68344144Z}",
+                "Vote{21:8678DEA79C21 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 709D7689B324 @ 2022-12-22T02:10:49.691648337Z}",
+                "Vote{22:A4C75BF2E949 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 E879BEDBBFE7 @ 2022-12-22T02:10:49.783225972Z}",
+                "Vote{23:401FEDE08F5D 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 04133BACDC76 @ 2022-12-22T02:10:49.688833961Z}",
+                "Vote{24:7B816BCCF55D 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 661C358AF31B @ 2022-12-22T02:10:49.709202531Z}",
+                "Vote{25:AFB96C6B73F5 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 6DD3C3B28AC7 @ 2022-12-22T02:10:49.951819178Z}",
+                "Vote{26:28E477061609 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 01A91DBB72CE @ 2022-12-22T02:10:49.716540573Z}",
+                "Vote{27:0EC9B78EA638 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 3085DC7FF61D @ 2022-12-22T02:10:49.688666315Z}",
+                "Vote{28:3724E509EECF 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 47E3B500708B @ 2022-12-22T02:10:49.688172527Z}",
+                "nil-Vote",
+                "Vote{30:8E083B36D052 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 A62105F83FBB @ 2022-12-22T02:10:49.721041243Z}",
+                "Vote{31:BA6DE0B7A4C6 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 55DD3A14D70E @ 2022-12-22T02:10:49.698800457Z}",
+                "Vote{32:2F2CCA202C52 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 60716C0B19E3 @ 2022-12-22T02:10:49.842104104Z}",
+                "Vote{33:FAE1B281108C 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 DF65B264887A @ 2022-12-22T02:10:49.710952914Z}",
+                "Vote{34:87FDE4FCFED8 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 4658001724C0 @ 2022-12-22T02:10:49.694721386Z}",
+                "Vote{35:46E5C0176076 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 00F9EDCAA613 @ 2022-12-22T02:10:49.709356816Z}",
+                "nil-Vote",
+                "Vote{37:0D50AA2D57A7 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 8F6E486FF71B @ 2022-12-22T02:10:49.676546835Z}",
+                "Vote{38:3637E5E60991 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 3B0022608493 @ 2022-12-22T02:10:49.675739739Z}",
+                "Vote{39:F15A3D1C8D7F 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 4198C442AF3E @ 2022-12-22T02:10:49.78383376Z}",
+                "Vote{40:4CAC8DD1518C 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 41E1D148EB90 @ 2022-12-22T02:10:49.690394868Z}",
+                "Vote{41:F7A6BABF60CE 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 C1425374B7E9 @ 2022-12-22T02:10:49.679893496Z}",
+                "Vote{42:47A953149ECF 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 BE786A92DD16 @ 2022-12-22T02:10:49.723726111Z}",
+                "Vote{43:E8F26C7248E9 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 16B915C9BD12 @ 2022-12-22T02:10:49.678503507Z}",
+                "Vote{44:56589CA2A693 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 B3DE39B16F3B @ 2022-12-22T02:10:49.733499806Z}",
+                "Vote{45:E969B6C58609 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 D6DCAB4D47B5 @ 2022-12-22T02:10:49.676813764Z}",
+                "Vote{46:38B48401FF4F 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 B50CFD6ECF09 @ 2022-12-22T02:10:49.706645289Z}",
+                "Vote{47:9EEE61849C5E 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 9DEF16371733 @ 2022-12-22T02:10:49.695264253Z}",
+                "nil-Vote",
+                "Vote{49:FDA5CFAE255E 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 94DF275E896C @ 2022-12-22T02:10:49.686128669Z}",
+                "Vote{50:B5C2BAE624A6 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 238D1AB1655E @ 2022-12-22T02:10:49.683707648Z}",
+                "Vote{51:F3279DF175F9 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 65CECE1FFC4D @ 2022-12-22T02:10:49.707603549Z}",
+                "Vote{52:DC47CB3367C9 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 E03B8FB8CBBF @ 2022-12-22T02:10:49.691559023Z}",
+                "Vote{53:B2659B938C94 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 B70267E44879 @ 2022-12-22T02:10:49.688069394Z}",
+                "Vote{54:EAA57195FAFF 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 7E716AC99446 @ 2022-12-22T02:10:49.691428413Z}",
+                "Vote{55:BB3DA45DD4AC 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 CE0449893AC2 @ 2022-12-22T02:10:49.694157344Z}",
+                "Vote{56:34CC054CD8D2 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 98B12A0ED586 @ 2022-12-22T02:10:49.75963018Z}",
+                "Vote{57:C996795284EA 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 DB20C2C0CBFB @ 2022-12-22T02:10:49.733706624Z}",
+                "Vote{58:4B2EC24A541B 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 ED1112F89009 @ 2022-12-22T02:10:49.692453037Z}",
+                "Vote{59:9CB0AE94157B 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 A6CB327794F6 @ 2022-12-22T02:10:49.650371804Z}",
+                "Vote{60:D1CFFAC7BA4A 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 E391FD1DA974 @ 2022-12-22T02:10:49.68336231Z}",
+                "Vote{61:CC06A9793165 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 1501B2793688 @ 2022-12-22T02:10:49.71742169Z}",
+                "Vote{62:A903E877E236 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 39B8A4C3A6B6 @ 2022-12-22T02:10:49.79226091Z}",
+                "Vote{63:60F3B0FA4FF3 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 B7EE50F4FD7D @ 2022-12-22T02:10:49.694770208Z}",
+                "Vote{64:0072F1C831E2 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 5D8F77E3B5EA @ 2022-12-22T02:10:49.951437694Z}",
+                "Vote{65:B10095720900 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 20BE308061C6 @ 2022-12-22T02:10:49.767393631Z}",
+                "Vote{66:953A851D650E 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 CEFF28EEAEEC @ 2022-12-22T02:10:49.711965008Z}",
+                "Vote{67:98A05FA60780 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 E979C4E289BE @ 2022-12-22T02:10:49.783764399Z}",
+                "Vote{68:F80845641721 1497396/00/SIGNED_MSG_TYPE_PREVOTE(Prevote) 000000000000 4041A84CCB76 @ 2022-12-22T02:10:49.896004517Z}"
+            ],
+            "prevotes_bit_array": "BA{69:xxxxxxxxxxxxxxxxxxxxxxxxxxxxx_xxxxxx_xxxxxxxxxxx_xxxxxxxxxxxxxxxxxxxx} 62064215/62423965 = 0.99",
+            "round": 0
+        },
+        {
+            "precommits": [
+                "nil-Vote",
+                "Vote{1:4FA0C000B17D 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 837ABC6853CC @ 2022-12-22T02:10:51.7587498Z}",
+                "Vote{2:213886810D6A 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 94DD19AA5F83 @ 2022-12-22T02:10:51.717129154Z}",
+                "Vote{3:D38638469153 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 F668436230C7 @ 2022-12-22T02:10:51.691619598Z}",
+                "Vote{4:0309E65D49C3 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 988D21F8B2D0 @ 2022-12-22T02:10:51.756983536Z}",
+                "Vote{5:D700B20FFA9E 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 3E49E054F1D7 @ 2022-12-22T02:10:51.753169912Z}",
+                "Vote{6:24359B9BF226 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 BB56DC607738 @ 2022-12-22T02:10:51.719229776Z}",
+                "Vote{7:0F364709D778 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 96A7FCC32060 @ 2022-12-22T02:10:51.759320378Z}",
+                "Vote{8:6F386D64B3BC 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 2964F0918019 @ 2022-12-22T02:10:51.778437231Z}",
+                "Vote{9:38D224A7E43B 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 B23BFFC6880E @ 2022-12-22T02:10:51.709439787Z}",
+                "Vote{10:517C9EDF350C 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 555FD6A475E7 @ 2022-12-22T02:10:51.750294178Z}",
+                "nil-Vote",
+                "Vote{12:3796E01FF587 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 91CAB3A0BBE6 @ 2022-12-22T02:10:51.768757885Z}",
+                "Vote{13:BC88DB57CE9C 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 032104312163 @ 2022-12-22T02:10:51.76052057Z}",
+                "Vote{14:4AC363624687 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 0DF6D3314EC0 @ 2022-12-22T02:10:51.76525201Z}",
+                "Vote{15:D61C71DE7AA2 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 FFF9DD02A728 @ 2022-12-22T02:10:51.692885503Z}",
+                "nil-Vote",
+                "Vote{17:FE9E74DB6099 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 76D5311310F0 @ 2022-12-22T02:10:51.724439898Z}",
+                "Vote{18:390DF25A8E8B 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 E1FBBC9847A7 @ 2022-12-22T02:10:51.701230543Z}",
+                "Vote{19:B28539EDC933 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 A22C35F3DB81 @ 2022-12-22T02:10:51.690499236Z}",
+                "Vote{20:703C8FBA4A03 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 9CC1BC34A849 @ 2022-12-22T02:10:51.710572673Z}",
+                "Vote{21:8678DEA79C21 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 A7162758E508 @ 2022-12-22T02:10:51.75614342Z}",
+                "nil-Vote",
+                "Vote{23:401FEDE08F5D 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 459C2B5007BD @ 2022-12-22T02:10:51.674571594Z}",
+                "Vote{24:7B816BCCF55D 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 7E8BBFEC7E70 @ 2022-12-22T02:10:51.756154834Z}",
+                "Vote{25:AFB96C6B73F5 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 1F5246E12C95 @ 2022-12-22T02:10:51.983723503Z}",
+                "nil-Vote",
+                "Vote{27:0EC9B78EA638 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 280697AB5C32 @ 2022-12-22T02:10:51.741550688Z}",
+                "Vote{28:3724E509EECF 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 693669F27946 @ 2022-12-22T02:10:51.724660319Z}",
+                "nil-Vote",
+                "Vote{30:8E083B36D052 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 4A40C4221BBA @ 2022-12-22T02:10:51.759332323Z}",
+                "Vote{31:BA6DE0B7A4C6 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 F86842C50907 @ 2022-12-22T02:10:51.71782165Z}",
+                "nil-Vote",
+                "Vote{33:FAE1B281108C 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 39F0FD89E41B @ 2022-12-22T02:10:51.690982925Z}",
+                "Vote{34:87FDE4FCFED8 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 1F152239C714 @ 2022-12-22T02:10:51.708435162Z}",
+                "Vote{35:46E5C0176076 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 183BF038AE0C @ 2022-12-22T02:10:51.724188857Z}",
+                "nil-Vote",
+                "Vote{37:0D50AA2D57A7 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 65DCF188F838 @ 2022-12-22T02:10:51.731339514Z}",
+                "Vote{38:3637E5E60991 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 B9FF6BB60434 @ 2022-12-22T02:10:51.699181464Z}",
+                "Vote{39:F15A3D1C8D7F 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 B28BE6D7D30E @ 2022-12-22T02:10:51.761994625Z}",
+                "Vote{40:4CAC8DD1518C 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 EC4C9971B076 @ 2022-12-22T02:10:51.739762364Z}",
+                "Vote{41:F7A6BABF60CE 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 6B5D2AF85D4C @ 2022-12-22T02:10:51.732051082Z}",
+                "Vote{42:47A953149ECF 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 9711AA073866 @ 2022-12-22T02:10:51.757579794Z}",
+                "Vote{43:E8F26C7248E9 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 71647402DAA2 @ 2022-12-22T02:10:51.727565522Z}",
+                "nil-Vote",
+                "Vote{45:E969B6C58609 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 6533C14A6EE5 @ 2022-12-22T02:10:51.741440527Z}",
+                "Vote{46:38B48401FF4F 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 991EF1567981 @ 2022-12-22T02:10:51.718530257Z}",
+                "Vote{47:9EEE61849C5E 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 5266B72B04FE @ 2022-12-22T02:10:51.7284079Z}",
+                "Vote{48:2192EFEF46C0 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 CAE738CF6ABB @ 2022-12-22T02:10:51.761931409Z}",
+                "Vote{49:FDA5CFAE255E 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 96A883DF52D9 @ 2022-12-22T02:10:51.750735663Z}",
+                "Vote{50:B5C2BAE624A6 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 3523167F16A8 @ 2022-12-22T02:10:51.707691981Z}",
+                "Vote{51:F3279DF175F9 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 690559DCBE78 @ 2022-12-22T02:10:51.764555563Z}",
+                "Vote{52:DC47CB3367C9 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 0E3E178B9E67 @ 2022-12-22T02:10:51.754409513Z}",
+                "Vote{53:B2659B938C94 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 BD087B13308B @ 2022-12-22T02:10:51.74215133Z}",
+                "Vote{54:EAA57195FAFF 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 390AAB58BDE1 @ 2022-12-22T02:10:51.699477984Z}",
+                "Vote{55:BB3DA45DD4AC 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 CA28ECFDEDCB @ 2022-12-22T02:10:51.721896548Z}",
+                "Vote{56:34CC054CD8D2 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 C28DA832ABFA @ 2022-12-22T02:10:51.763226093Z}",
+                "Vote{57:C996795284EA 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 B89D730E529F @ 2022-12-22T02:10:51.758877587Z}",
+                "Vote{58:4B2EC24A541B 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 72D8201DCAFA @ 2022-12-22T02:10:51.749846485Z}",
+                "Vote{59:9CB0AE94157B 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 46FB5801FAF3 @ 2022-12-22T02:10:51.737157776Z}",
+                "Vote{60:D1CFFAC7BA4A 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 2A3A7187F824 @ 2022-12-22T02:10:51.672331634Z}",
+                "Vote{61:CC06A9793165 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 DE69BB58F0A7 @ 2022-12-22T02:10:51.71162525Z}",
+                "Vote{62:A903E877E236 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 7FC48574B759 @ 2022-12-22T02:10:51.741364123Z}",
+                "Vote{63:60F3B0FA4FF3 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 588A2D02C61F @ 2022-12-22T02:10:51.747728859Z}",
+                "Vote{64:0072F1C831E2 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 5F08611056E1 @ 2022-12-22T02:10:51.791011461Z}",
+                "Vote{65:B10095720900 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 5D3A20EAF33E @ 2022-12-22T02:10:51.732017693Z}",
+                "Vote{66:953A851D650E 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 08F60E65115B @ 2022-12-22T02:10:51.681547757Z}",
+                "Vote{67:98A05FA60780 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 B99B12BF2D4F @ 2022-12-22T02:10:51.682456746Z}",
+                "Vote{68:F80845641721 1497396/01/SIGNED_MSG_TYPE_PRECOMMIT(Precommit) 40698F4DE291 F4808B333B71 @ 2022-12-22T02:10:51.770822165Z}"
+            ],
+            "precommits_bit_array": "BA{69:_xxxxxxxxxx_xxxx_xxxxx_xxx_xx_xx_xxx_xxxxxxx_xxxxxxxxxxxxxxxxxxxxxxxx} 48701164/62423965 = 0.78",
+            "prevotes": [
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote"
+            ],
+            "prevotes_bit_array": "BA{69:_____________________________________________________________________} 0/62423965 = 0.00",
+            "round": 1
+        },
+        {
+            "precommits": [
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote"
+            ],
+            "precommits_bit_array": "BA{69:_____________________________________________________________________} 0/62423965 = 0.00",
+            "prevotes": [
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote",
+                "nil-Vote"
+            ],
+            "prevotes_bit_array": "BA{69:_____________________________________________________________________} 0/62423965 = 0.00",
+            "round": 2
+        }
+    ]
+}
